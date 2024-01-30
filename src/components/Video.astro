@@ -1,14 +1,14 @@
 ---
-import { getI18N } from "@/i18n/"
-import Button from "@/components/Button.tsx"
-import Logo from "@/components/Logo.astro"
-import { getLangFromUrl, useTranslatedPath } from "@/i18n/utils"
+import { getI18N } from "@/i18n/";
+import Button from "@/components/Button.tsx";
+import Logo from "@/components/Logo.astro";
+import { getLangFromUrl, useTranslatedPath } from "@/i18n/utils";
 
 const lang = getLangFromUrl(Astro.url);
 const translatePath = useTranslatedPath(lang);
 
-const { currentLocale } = Astro
-const i18n = getI18N({ currentLocale })
+const { currentLocale } = Astro;
+const i18n = getI18N({ currentLocale });
 ---
 
 <div
@@ -23,15 +23,15 @@ const i18n = getI18N({ currentLocale })
       <h1
         class="flex items-center gap-5 text-4xl md:text-6xl lg:gap-20 lg:text-8xl font-tomaso"
       >
-        <span>E</span>
+        <span>M</span>
+        <span>Y</span>
         <span>S</span>
-        <span>L</span>
         <Logo
           class="h-9 w-auto md:h-[3.75rem] lg:h-24 scale-150"
           aria-label="A"
         />
-        <span>N</span>
-        <span>D</span>
+        <span>I</span>
+        <span>C</span>
       </h1>
 
       <p
@@ -43,7 +43,7 @@ const i18n = getI18N({ currentLocale })
       <Button
         target="_self"
         className="text-blue-950 animate-fade-up bg-white"
-        url={translatePath('/vota/')}
+        url={translatePath("/vota/")}
       >
         {i18n.VIDEO_BUTTON}
       </Button>
@@ -58,7 +58,6 @@ const i18n = getI18N({ currentLocale })
       preload="metadata"
       class="video hidden cp-v h-full w-full object-cover object-top animate-duration-[2s] animate-ease-in-out"
     >
-      <source src="/video.webm" type="video/webm" />
       <source src="/video.mp4" type="video/mp4" />
     </video>
   </div>
@@ -69,37 +68,38 @@ const i18n = getI18N({ currentLocale })
     muted
     preload="metadata"
   >
-    <source src="/video.webm" type="video/webm" />
     <source src="/video.mp4" type="video/mp4" />
   </video>
 </div>
 
 <script>
   document.addEventListener("astro:page-load", () => {
-    const firstVideo = document.querySelector("#main-video") as HTMLMediaElement
+    const firstVideo = document.querySelector(
+      "#main-video"
+    ) as HTMLMediaElement;
 
     if (firstVideo) {
       const videos = document.querySelectorAll(
         ".video"
-      ) as NodeListOf<HTMLMediaElement>
+      ) as NodeListOf<HTMLMediaElement>;
 
       if (firstVideo.readyState >= 3) {
         videos.forEach((videoEl) => {
-          videoEl.classList.remove("hidden")
-          videoEl.classList.add("animate-fade")
-        })
+          videoEl.classList.remove("hidden");
+          videoEl.classList.add("animate-fade");
+        });
 
-        return
+        return;
       }
 
       firstVideo.addEventListener("loadeddata", () => {
         videos.forEach((videoEl) => {
-          videoEl.classList.remove("hidden")
-          videoEl.classList.add("animate-fade")
-        })
-      })
+          videoEl.classList.remove("hidden");
+          videoEl.classList.add("animate-fade");
+        });
+      });
     }
-  })
+  });
 </script>
 
 <style>

@@ -1,13 +1,16 @@
 ---
-import Logo from "@/components/Logo.astro"
-import Link from "@/components/Link.astro"
-import { getLangFromUrl, useTranslations, useTranslatedPath } from "@/i18n/utils"
+import Logo from "@/components/Logo.astro";
+import Link from "@/components/Link.astro";
+import {
+  getLangFromUrl,
+  useTranslations,
+  useTranslatedPath,
+} from "@/i18n/utils";
 
-import { getI18N } from "@/i18n/index"
+import { getI18N } from "@/i18n/index";
 
-const { currentLocale } = Astro
-const i18n = getI18N({ currentLocale })
-
+const { currentLocale } = Astro;
+const i18n = getI18N({ currentLocale });
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -19,13 +22,16 @@ const translatePath = useTranslatedPath(lang);
     <div class="md:flex md:justify-between">
       <div class="mb-6 flex flex-col md:mb-0">
         <a
-          href="https://premiosesland.com/"
+          href="https://mystic-bcn.com/"
           class="-mt-14 flex items-center justify-center"
         >
           <Logo class="h-auto w-24" />
         </a>
         <div class="mt-6 flex justify-center gap-x-4">
-          <a href="https://twitter.com/PremiosESLAND" class="text-white hover:text-primary duration-300">
+          <a
+            href="https://www.youtube.com/channel/UC5-PWGW2OmEvd9OEbgnt1JA"
+            class="text-white hover:text-primary duration-300"
+          >
             <svg
               class="size-6"
               aria-hidden="true"
@@ -40,7 +46,10 @@ const translatePath = useTranslatedPath(lang);
             </svg>
             <span class="sr-only">Twitter</span>
           </a>
-          <a href="https://www.instagram.com/premiosesland/" class="text-white hover:text-primary duration-300">
+          <a
+            href="https://www.instagram.com/mystic_international/"
+            class="text-white hover:text-primary duration-300"
+          >
             <svg
               class="size-6"
               xmlns="http://www.w3.org/2000/svg"
@@ -55,7 +64,10 @@ const translatePath = useTranslatedPath(lang);
             >
             <span class="sr-only">Instagram</span>
           </a>
-          <a href="https://www.reddit.com/r/premiosESLAND/" class="text-white hover:text-primary duration-300">
+          <a
+            href="https://www.facebook.com/monica.freixes.71"
+            class="text-white hover:text-primary duration-300"
+          >
             <svg
               class="size-6"
               xmlns="http://www.w3.org/2000/svg"
@@ -79,26 +91,26 @@ const translatePath = useTranslatedPath(lang);
           <ul class="flex flex-col gap-2 font-medium text-gray-400">
             <li>
               <Link
-                href={translatePath('/aviso-legal/')}
-                class="hover:underline hover:text-primary duration-300"
-                >
-                {t('nav.legal')}
-              </Link>
-            </li>
-            <li>
-              <Link
-                href={translatePath('/privacidad/')}
-                class="hover:underline hover:text-primary duration-300"
-                >
-                {t('nav.privacidad')}
-              </Link>
-            </li>
-            <li>
-              <Link
-                href={translatePath('/cookies/')}
+                href={translatePath("/aviso-legal/")}
                 class="hover:underline hover:text-primary duration-300"
               >
-                {t('nav.cookies')}
+                {t("nav.legal")}
+              </Link>
+            </li>
+            <li>
+              <Link
+                href={translatePath("/privacidad/")}
+                class="hover:underline hover:text-primary duration-300"
+              >
+                {t("nav.privacidad")}
+              </Link>
+            </li>
+            <li>
+              <Link
+                href={translatePath("/cookies/")}
+                class="hover:underline hover:text-primary duration-300"
+              >
+                {t("nav.cookies")}
               </Link>
             </li>
           </ul>
@@ -110,26 +122,34 @@ const translatePath = useTranslatedPath(lang);
           <ul class="flex flex-col gap-2 font-medium text-gray-400">
             <li>
               <Link
-                href={translatePath('/')}
+                href={translatePath("/")}
                 class="hover:underline hover:text-primary duration-300"
-                >
-                {t('nav.inicio')}
+              >
+                {t("nav.inicio")}
               </Link>
             </li>
             <li>
               <Link
-                href={translatePath('/info/')}
+                href={translatePath("/ponentes/")}
                 class="hover:underline hover:text-primary duration-300"
-                >
-                {t('nav.info')}
-            </Link>
+              >
+                {t("nav.pon")}
+              </Link>
             </li>
             <li>
               <Link
-                href={translatePath('/archivo/')}
+                href={translatePath("/expositores/")}
                 class="hover:underline hover:text-primary duration-300"
-                >
-                {t('nav.archivo')}
+              >
+                {t("nav.exp")}
+              </Link>
+            </li>
+            <li>
+              <Link
+                href={translatePath("/archi/")}
+                class="hover:underline hover:text-primary duration-300"
+              >
+                {t("nav.archivo")}
               </Link>
             </li>
           </ul>
@@ -140,11 +160,11 @@ const translatePath = useTranslatedPath(lang);
           </h2>
           <a
             class="hover:opacity-100 opacity-70 transition-opacity duration-300 block"
-            href="https://www.ubiq.ad/"
+            href="https://www.youtube.com/channel/UC5-PWGW2OmEvd9OEbgnt1JA"
             target="_blank"
             rel="noreferrer"
           >
-            <img loading="lazy" src="/ubiq-logo.svg" alt="Logo Ubiq" />
+            <img loading="lazy" src="/MFTVcrop.svg" alt="Logo MFTV" />
           </a>
         </div>
       </div>
@@ -156,7 +176,7 @@ const translatePath = useTranslatedPath(lang);
       </span>
       <div class="mt-4 flex sm:mt-0 sm:justify-center">
         <a
-          href="https://github.com/midudev/esland-web"
+          href="https://github.com/dannyribes/mystic-web"
           class="text-gray-500 hover:text-white ms-5 duration-300"
         >
           <svg
