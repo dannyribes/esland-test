@@ -5,13 +5,14 @@ import HeroContainer from "@/components/HeroContainer.astro";
 import InfoKitPrensa from "@/components/KitEXPOSITORES.astro";
 
 import { getI18N } from "@/i18n";
+import KitEXPOSITORES from "@/components/KitEXPOSITORES.astro";
 
 const { currentLocale } = Astro;
 const i18n = getI18N({ currentLocale });
 ---
 
 <Layout title={i18n.SEO.Exp_TITLE} description={i18n.SEO.Exp_DESCRIPTION}>
-  <HeroContainer img="/expositores-background.webp">
+  <HeroContainer img="/farga.webp">
     <h1
       class="lg:text-6xl text-5xl text-center uppercase font-tomaso tracking tracking-widest"
     >
@@ -35,7 +36,7 @@ const i18n = getI18N({ currentLocale });
         <img
           class="object-cover w-full h-full rounded-md"
           height={500}
-          src="/theater.webp"
+          src="/nave-farga.webp"
           style={{
             aspectRatio: "812/556",
             objectFit: "cover",
@@ -52,7 +53,7 @@ const i18n = getI18N({ currentLocale });
         <img
           class="object-cover w-full h-full rounded-md"
           height={556}
-          src="/trophies.webp"
+          src="/creativa-farga.webp"
           style={{
             aspectRatio: "812/556",
             objectFit: "cover",
@@ -70,7 +71,7 @@ const i18n = getI18N({ currentLocale });
         <p set:html={i18n.Exp_CONTENT_2_2} />
       </div>
     </section>
-    <InfoKitPrensa />
+    <KitEXPOSITORES />
   </main>
 </Layout>
 

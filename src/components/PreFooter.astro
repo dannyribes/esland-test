@@ -11,13 +11,23 @@ const i18n = getI18N({ currentLocale });
   >
     {i18n.PREFOOTER_VIDEO_TITLE}
   </h3>
-
-  <lite-youtube
+  <a
+    href="https://moovitapp.com/index/es/transporte_p%C3%BAblico-La_Farga-Barcelona-site_15405438-362"
+    target="_blank"
+    class="block rounded-xl shadow-2xl shadow-white/10"
+  >
+    <img
+      src="/mapa-farga.webp"
+      alt={i18n.PREFOOTER_VIDEO_TITLE}
+      class="rounded-xl"
+    />
+  </a>
+  <!-- <lite-youtube
     class="rounded-xl shadow-2xl shadow-white/10"
     videoid="acn2dbFnMVQ"
-    videotitle={i18n.PREFOOTER_VIDEO_TITLE}></lite-youtube>
+    videotitle={i18n.PREFOOTER_VIDEO_TITLE}></lite-youtube> -->
 </section>
 
-<script>
+<!-- <script>
   import "@justinribeiro/lite-youtube";
-</script>
+</script> -->
