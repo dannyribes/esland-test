@@ -22,7 +22,7 @@
 	"INTRO_DESCRIPTION_1": "No se trata de una feria. Tampoco se trata de un Congreso, ni de un certamen. Se trata de un ENCUENTRO. El de todos los amigos de la Iberofonía para poner en común todo lo creado, hallado o experimentado al respecto de la espiritualidad y el esoterismo.",
 	"INTRO_DESCRIPTION_2": "<strong>España, Portugal e Iberoamérica unidas</strong>, además de por unas lenguas y culturas comunes, por la espiritualidad, el esoterismo, el arte y la artesanía espirituales, todas ellas presentes en el Mystic.",
 	"INTRO_DESCRIPTION_3": "Esta és la <strong>primera edición del Mystic Internacional</strong>, pero seguro que no será la última.",
-	
+
 	"BENTO_TITLE_1": "Lugar: La Farga de L'Hospitalet (BCN)",
 	"BENTO_SUBTITLE_1": "12, 13 y 14 de Abril de 2024",
 	"BENTO_CONTENT_1": "Una ubicación bien comunicada por metro y autobús, con posibilidad de aparcar en la Zona comercial situada al lado del Recinto.",
@@ -81,7 +81,7 @@
 	"Pon_TITLE_2": "ENTRADA GRATUITA A TU PONENCIA PARA EL PÚBLICO ASISTENTE AL MYSTIC ",
 	"Pon_CONTENT_2_1": "No existe ninguna barrera para que el público que tenga curiosidad, pueda acceder a la sala de ponencias gratuitas y asistir a tu PONENCIA.",
 	"Pon_CONTENT_2_2": "               ",
-		
+
 	"Exp_KIT_TITLE": "KIT DEL EXPOSITOR",
 	"Exp_KIT_SUBTITLE_1": "PLANO PLANTA EXPOSITORES",
 	"Exp_KIT_SUBTITLE_2": "PLANO DISTRIBUCION ESTANDS",
@@ -91,7 +91,7 @@
 	"Pon_KIT_SUBTITLE_1": "PLANO PLANTA CONGRESOS",
 	"Pon_KIT_SUBTITLE_2": "PLANO AUDITORIO",
 	"Pon_KIT_SUBTITLE_3": "PLANO SALA POLIVALENTE",
-	
+
 	"COOKIES": {
 		"POLICIES": {
 			"TITLE": "Política de Cookies",
@@ -164,8 +164,7 @@
 			"THEAD_CADUCITY": "Caducidad",
 			"THEAD_PROVIDER": "Proveedor",
 			"THEAD_FINALITY": "Finalidad",
-			"ANALYTICS": [
-				{
+			"ANALYTICS": [{
 					"NAME": "_ga",
 					"EXPIRE": "2 años",
 					"PROVIDER": {

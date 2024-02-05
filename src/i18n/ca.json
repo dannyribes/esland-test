@@ -1,176 +1,177 @@
 {
-	"SEO_TITLE": "Premis ESLAND 2024 - Celebrant el millor del streaming i els creadors de contingut",
-	"SEO_DESCRIPTION": "Descobreix els millors creadors de contingut d'Espanya, Llatinoamèrica i Andorra. Vota pels teus favorits! Celebra la innovació i el talent de Twitch, YouTube i més",
+	"SEO_TITLE": "Mystic INTERNACIONAL 2024",
+	"SEO_DESCRIPTION": "Trobada de les Arts Espirituals i Esotèriques de Barcelona. Ponents i expositors experts en espiritualitat, misteris, esoterisme, sanació, arts adivinatòries, artesania i art",
 	"SEO": {
-		"ARCHIVO_TITLE": "Arxiu de les edicions anteriors - Premis ESLAND 2024",
-		"ARCHIVO_DESCRIPTION": "Repassa els millors moments d'edicions anteriors",
-		"INFO_TITLE": "Informació - Premis ESLAND 2024",
-		"INFO_DESCRIPTION": "Descobreix tot el que necessites saber sobre els Premis ESLAND 2024 i descarrega el Kit de Premsa",
-		"VOTE_TILTE": "Vota pels teus creadors de contingut favorits - Premis ESLAND 2024",
-		"VOTE_DESCRIPTION": "Vota pels teus creadors de contingut favorits d'Espanya, Llatinoamèrica i Andorra",
-		"ERROR_404_TITLE": "404 Pàgina no trobada - Premis ESLAND 2024",
-		"ERROR_404_DESCRIPTION": "Pàgina no trobada (Error 404). Verifica la URL o explora les nostres seccions. Necessites ajuda? Contacta'ns."
+		"ARCHIVO_TITLE": "Galeria de Ponents i Expositors més destacats del Mystic International Abril 2024",
+		"ARCHIVO_DESCRIPTION": "Averigua qui vindrà al Mystic Abril 2024",
+		"Exp_TITLE": "Contractació d'ESTANDS per al Mystic Abril 2024",
+		"Exp_DESCRIPTION": "Descobreix com convertir-te en expositor del Mystic Abril 2024",
+		"Pon_TITLE": "Contractació de Ponències i Tallers del Mystic Abril 2024",
+		"Pon_DESCRIPTION": "Averigua qui vindrà al Mystic Abril 2024",
+		"ERROR_404_TITLE": "404 Pàgina no trobada - Mystic Abril 2024",
+		"ERROR_404_DESCRIPTION": "404 Pàgina no trobada - Mystic Abril 2024"
 	},
 	"HEADER": {
-		"LOGO": "Tornar a la pàgina d'inici dels Premis ESLAND"
+		"LOGO": "Tornar a la pàgina d'inici del Mystic"
 	},
-	"HEADER_VOTE": "VOTA",
-	"HEADER_INFO": "INFORMACIÓ",
-	"HEADER_ARCHIVE": "ARXIU",
-	"HEADER_BUTTON": "CRITERIS DE NOMINACIÓ",
-	"HERO_SUBTITLE": "Premis a la comunitat hispanoparlant de Streaming",
+	"HEADER_ARCHIVE": "SÓC MYSTIC",
+	"HEADER_BUTTON": "FITXA DE CONTRACTACIÓ",
+	"HERO_SUBTITLE": "MYSTIC INTERNATIONAL - Trobada de les Arts Espirituals",
 	"INTRO_TITLE": "Benvinguts/des",
-	"INTRO_TITLE_AFTER_BR": "als Premis ESLAND",
-	"INTRO_DESCRIPTION_1": "El cinema té els Oscars, la música té els Grammy i <strong>el streaming té els ESLAND</strong>. Els premis que celebren la creativitat i el talent dels millors creadors de contingut de <strong>la comunitat hispanoparlant</strong>",
-	"INTRO_DESCRIPTION_2": "Espanya, Llatinoamèrica i Andorra unides per creadors, creadores i les seves comunitats, per recordar i reviure <strong>alguns dels millors moments de l'any.</strong>",
-	"INTRO_DESCRIPTION_3": "Després de dues gal·les celebrades, una al Palau de la Música Catalana de Barcelona, i una al Auditorio Nacional de la Ciudad de México, només queda esperar a <strong>la tercera edició a Andorra.</strong>",
-	"BENTO_TITLE_1": "ANDORRA: EL CÈNIT DELS PREMIS ESLAND",
-	"BENTO_CONTENT_1": "Una nova edició <strong>plena de novetats</strong> i contingut, que començarà diverses setmanes abans de la desitjada gala. <strong>Directes especials, col·laboracions, concerts i molt més</strong> en el que serà una autèntica festa dedicada a la creació de contingut.",
-	"BENTO_TITLE_2": "LA CATIFA BLANCA",
-	"BENTO_SUBTITLE_2": "16 de febrer de 2024",
-	"BENTO_CONTENT_2": "Enguany, el moment de la catifa blava serà substituït i millorat, gràcies als increïbles paisatges andorrans, per una <strong>catifa blanca en plena neu</strong>, situada a les <strong>pistes d'esquí d'Andorra</strong>.",
-	"BENTO_TITLE_3": "LA GALA",
-	"BENTO_SUBTITLE_3": "17 de febrer de 2024",
-	"BENTO_CONTENT_3": "Una gala de premis plena de <strong> contingut de primer nivell</strong> i <strong>moltes sorpreses</strong>, on es descobriran els guanyadors d'aquesta tercera edició dels Premis ESLAND.",
-	"BENTO_TITLE_4": "GAUDEIX DEL REDDIT DE LA COMUNITAT",
-	"BENTO_CONTENT_4": "Enguany, el reddit no formarà part de les votacions dels premis, però sí que <strong>formarà part de la comunitat</strong>. El subreddit oficial dels Premis ESLAND està obert per a tu. Comparteix els teus clips, opinions i <strong>interactua amb tota la comunitat</strong> del streaming en espanyol.",
-	"VIDEO_ALT": "ESLAND - Premis a la comunitat hispanoparlant de Streaming",
-	"VIDEO_BUTTON": "Vota",
-	"PREFOOTER_VIDEO_TITLE": "Guia de la 3a Edició dels premis ESLAND",
+	"INTRO_TITLE_AFTER_BR": "a MYSTIC International",
+	"INTRO_DESCRIPTION_1": "No es tracta d'una fira. Tampoc es tracta d'un Congrés, ni d'un certamen. Es tracta d'una TROBADA. La de tots els amics de la Iberofonia per posar en comú tot el creat, trobat o experimentat respecte de la espiritualitat i l'esoterisme.",
+	"INTRO_DESCRIPTION_2": "<strong>Espanya, Portugal i Iberoamèrica unides</strong>, a més de per unes llengües i cultures comunes, per l'espiritualitat, l'esoterisme, l'art i l'artesania espirituals, totes elles presents en el Mystic.",
+	"INTRO_DESCRIPTION_3": "Aquesta és la <strong>primera edició del Mystic Internacional</strong>, però segur que no serà l'última.",
+
+	"BENTO_TITLE_1": "Lloc: La Farga de L'Hospitalet (BCN)",
+	"BENTO_SUBTITLE_1": "12, 13 i 14 d'Abril de 2024",
+	"BENTO_CONTENT_1": "Una ubicació ben comunicada per metro i autobús, amb possibilitat d'aparcar a la Zona comercial situada al costat del Recinte.",
+	"BENTO_TITLE_2": "Ponents de primer ordre",
+	"BENTO_SUBTITLE_2": "Entrades a 95€ per dia (250€ els tres dies)",
+	"BENTO_CONTENT_2": "José Luis Camacho (Món Desconegut), Cristian Contreras (Doc Files), Pedro Baños (El Canal del Coronel), María José Ros, Pedro Amorós (Psicofonies), Àngel Luis Fernández (Salt Quàntic), són només una mostra de la qualitat dels conferenciants amb els quals comptarà aquest esdeveniment.",
+	"BENTO_TITLE_3": "Gran qualitat d'Expositors",
+	"BENTO_SUBTITLE_3": "Zona d'expositors ubicada a peu de carrer d'ACCÉS LLIURE per al públic assistent a l'esdeveniment, i amb una superfície total disponible de 3.000 m2",
+	"BENTO_CONTENT_3": "          ",
+	"BENTO_TITLE_4": "Contacta amb Mystic International:",
+	"BENTO_CONTENT_4": "Envia'ns un correu electrònic a <strong>mystic33bcn@gmail.com</strong>. O bé truca'ns al +34-640-34.19.84 (Mònica) o al +34-696-62.83.77 (Daniel) per la compra d'entrades o per qualsevol dubte",
+	"VIDEO_ALT": "MYSTIC INTERNATIONAL - Trobada de les Arts Espirituals de Barcelona",
+	"VIDEO_BUTTON": "INFO",
+	"PREFOOTER_VIDEO_TITLE": "Com arribar a Mystic INTERNATIONAL",
 	"ARCHIVO": {
-		"HERO_TITLE": "Edicions anteriores",
-		"HERO_BUTTON": "Reviu la darrera gala",
-		"COUNTER_TITLE": "Els ESLAND en xifres",
-		"COUNTER_VIEWS": "de visualitzacions",
+		"HERO_TITLE": "QUI ASSISTIRÀ AL MYSTIC",
+		"HERO_BUTTON": "Avança't i coneix-los ja",
+		"COUNTER_TITLE": "El MYSTIC en números",
+		"COUNTER_VIEWS": "de ",
 		"COUNTER_NEWS": "notícies en premsa",
 		"COUNTER_MEDIA": "en mitjans guanyats"
-	},
-	"VOTE": {
-		"TITLE": "Les votacions ja estan aquí",
-		"CALL_TO_VOTE": "Comença amb les votacions!",
-		"INTRO_CONTENT": "Ha arribat el moment més important. <strong>Votar a la 3ª Edició dels Premis ESLAND</strong>. Perquè els teus vots es comptabilitzin de forma correcta, et deixem alguns consells:",
-		"ADVICE_1": "Vota, <strong>per ordre de preferència</strong>, fins a 4 nominats per categoria.",
-		"ADVICE_2": "No és obligatori votar a cada categoria.",
-		"ADVICE_3": "No és obligatori però sí recomanable l'<strong>ús del vot en ranquing</strong>.",
-		"ADVICE_4": "Quan tinguis clara la teva elecció, <strong>assegura't de clicar “enviar els meus vots”.</strong>",
-		"ADVICE_5": "<strong>Recorda compartir els teus vots</strong> a les xarxes socials.",
-		"ADVICE_6": "Tria sabiament i <strong>revisa els teus vots</strong>, només tens una oportunitat.",
-		"TIME_LIMIT": "Les votacions estaran obertes fins al diumenge 14 de gener a les 24:00h (hora espanyola).",
-		"VOTES_CASTED": "Vots realitzats"
 	},
 	"CATEGORY": "Categoria",
 	"LOG_OUT": "Tancar sessió",
 	"FOOTER": {
-		"DISCLAIMER": "© ESLAND 2021 - 2024 Tots els drets reservats. - Aquesta no és la pàgina web oficial, desenvolupada per @midudev amb finalitats educatives",
+		"DISCLAIMER": "© MYSTIC INTERNATIONAL 2024 Tots els drets reservats. Web oficial desenvolupada per @dannyribes",
 		"LEGAL": {
 			"TITLE": "Legal",
 			"NOTICE": "Avís Legal",
-			"PRIVACY": "Privadesa",
+			"PRIVACY": "Privacitat",
 			"COOKIES": "Galetes",
-			"PRIVACY_POLICY": "Política de Privadesa",
+			"PRIVACY_POLICY": "Política de Privacitat",
 			"TOS": "Termes i Condicions"
 		},
 		"WEB_MAP": {
-			"TITLE": "Mapa del Lloc Web",
+			"TITLE": "Mapa Web",
 			"HOME": "Inici",
-			"INFO": "Informació",
-			"ARCHIVE": "Arxiu"
+			"INFO": "Info",
+			"ARCHIVE": "Arxiu",
+			"VOTE": "Vota"
 		},
 		"PRODUCED_BY": "Produït per"
 	},
-	"INFO_TITLE": "Els premis ESLAND",
-	"INFO_TITLE_1": "Un reconoixement únic per a creadors, creadores i comunitats",
-	"INFO_CONTENT_1_1": "Un reconeixement únic per a creadors, creadores i comunitats que busquen el seu lloc al món de l'entreteniment en directe.",
-	"INFO_CONTENT_1_2": "ESLAND és l'acrònim d'ESPANYA, LLATINOAMÈRICA I ANDORRA, tres localitzacions geogràfiques que comparteixen l'idioma que les uneix més enllà de qualsevol frontera, física o virtual.",
-	"INFO_TITLE_2": "EL PREMI A LA CREACIÓ",
-	"INFO_CONTENT_2_1": "El trofeu que es lliura als guanyadors i guanyadores a la cerimònia és <strong>una representació de la lletra “A” dividida en tres fragments</strong> i acoblades a tall d'artilugi futurista sobre el qual es construeix la narrativa de l'esdeveniment.",
-	"INFO_CONTENT_2_2": "Un artefacte d'origen desconegut que dota de <strong>ferramentes i habilitats per a la creació.</strong> Una metàfora sobre l'emancipació del talent gràcies a la tecnologia i la irrupció dels creadors de contingut al món de l'entreteniment.",
-	"MEDIA_KIT_TITLE": "KIT DE PREMSA",
-	"MEDIA_KIT_SUBTITLE_1": "LOGOTIP I TROFEU",
-	"MEDIA_KIT_SUBTITLE_2": "FONS DE PANTALLA",
-	"MEDIA_KIT_SUBTITLE_3": "NOTA DE PREMSA",
+	"Exp_TITLE": "Vols un ESTAND al MYSTIC?",
+	"Exp_TITLE_1": "Tens la mida d'ESTAND que s'adapta a les teves necessitats",
+	"Exp_CONTENT_1_1": "ESTANDS modulables de dos metres de profunditat i dos, tres, quatre, cinc o sis metres d'amplada, permetent exposar una gran varietat d'articles.",
+	"Exp_CONTENT_1_2": "Si el que ofereixes són els teus serveis com a terapeuta, sanador, vident, tarotista o quiromància, llavors també tenim l'ESTAND que millor s'adapta. Si no portes llitera, la mida mínima de 2x2 m et podria encaixar, i en el cas que portis llitera, un de 3x2 m podria ser la mida ideal.",
+	"Exp_TITLE_2": "ENTRADA GRATUÏTA A LA ZONA D'ESTANDS PER A TOT EL PÚBLIC ASSISTENT AL MYSTIC",
+	"Exp_CONTENT_2_1": "No existeix cap barrera perquè el públic que tingui curiositat, pugui accedir al recinte i pugui veure el teu ESTAND.",
+	"Exp_CONTENT_2_2": "               ",
+
+	"Pon_TITLE": "Vols ser PONENT al MYSTIC?",
+	"Pon_TITLE_1": "Tens l'espai que necessites per a la teva PONÈNCIA",
+	"Pon_CONTENT_1_1": "Sales per a ponències i tallers",
+	"Pon_CONTENT_1_2": "Capacitat de les sales des de 250 persones fins a 700 persones, depenent de les circumstàncies",
+	"Pon_TITLE_2": "ENTRADA GRATUÏTA A LA TEVA PONÈNCIA PER AL PÚBLIC ASSISTENT AL MYSTIC",
+	"Pon_CONTENT_2_1": "No existeix cap barrera perquè el públic que tingui curiositat, pugui accedir a la sala de ponències gratuïtes i assistir a la teva PONÈNCIA.",
+	"Pon_CONTENT_2_2": "               ",
+
+	"Exp_KIT_TITLE": "KIT DE L'EXPOSITOR",
+	"Exp_KIT_SUBTITLE_1": "PLÀNOL PLANTA EXPOSITORS",
+	"Exp_KIT_SUBTITLE_2": "PLÀNOL DISTRIBUCIÓ ESTANDS",
+	"Exp_KIT_SUBTITLE_3": "FITXA ESTAND",
 	"DOWNLOAD_BUTTON": "DESCARREGAR",
+	"Pon_KIT_TITLE": "KIT DEL PONENT",
+	"Pon_KIT_SUBTITLE_1": "PLÀNOL PLANTA CONGRESSOS",
+	"Pon_KIT_SUBTITLE_2": "PLÀNOL AUDITORI",
+	"Pon_KIT_SUBTITLE_3": "PLÀNOL SALA POLIVALENT",
+
 	"COOKIES": {
 		"POLICIES": {
 			"TITLE": "Política de Galetes",
-			"DESCRIPTION_1": "Aquesta Política de cookies és part integrant de l'Avís Legal i la Política de Privadesa de www.premiosesland.com (d'ara endavant, Lloc Web), titularitat d'UBIQ S.L.U (d'ara endavant, UBIQ) amb domicili social al carrer Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany, i responsable de les Cookies i del tractament de dades personals obtingudes a través de cookies pròpies i de tercers que es fan servir en aquest Lloc Web.",
-			"DESCRIPTION_2": "Aquest Lloc Web utilitza galetes de tercers en concret galetes analítiques de Google Analytics per analitzar l'activitat que realitzen els usuaris quan visiten la web amb finalitats estadístiques.",
-			"DESCRIPTION_3": "Pots acceptar totes les cookies, rebutjar-les o configurar les teves preferències al panell de configuració de cookies. En qualsevol moment podràs revocar el consentiment o modificar les teves preferències de configuració de cookies accedint novament al panell de configuració. Així mateix, pots evitar la descàrrega de cookies o eliminar les instal·lades a través de la configuració del teu navegador, evitant que les cookies s'emmagatzemin al dispositiu. És molt important que llegeixis aquesta política de cookies.",
-			"DESCRIPTION_4": "T'informem de la possibilitat que el rebuig i la desactivació de les cookies pot afectar o dificultar la navegació o la prestació dels serveis oferts en aquest Lloc Web."
+			"DESCRIPTION_1": "Aquesta Política de galetes és part integrant de l'Avís Legal i la Política de Privacitat de www.premiosesland.com (en endavant, Lloc Web), titularitat de DANRIBES S.L. (en endavant, DANRIBES) amb domicili social al carrer Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany, i responsable de les Galetes i del tractament de dades personals obtinguts a través de galetes pròpies i de tercers que s'utilitzen en aquest Lloc Web.",
+			"DESCRIPTION_2": "Aquest Lloc Web utilitza galetes de tercers concretament galetes analítiques de Google Analytics per analitzar l'activitat que realitzen els usuaris quan visiten la web amb fins estadístics.",
+			"DESCRIPTION_3": "Pots acceptar totes les galetes, rebutjar-les o configurar les teves preferències al panell de configuració de galetes. En qualsevol moment podràs revocar el consentiment o modificar les teves preferències de configuració de galetes accedint novament al panell de configuració. Així mateix, pots evitar la descàrrega de galetes o eliminar les instal·lades a través de la configuració del teu navegador, evitant que les galetes s'emmagatzemin al teu dispositiu. És molt important que llegeixis la present política de galetes.",
+			"DESCRIPTION_4": "T'informem de la possibilitat que el rebuig i desactivació de les galetes pot afectar o dificultar la navegació o la prestació dels serveis oferts en aquest Lloc Web."
 		},
 		"WHAT_IS": {
 			"TITLE": "Què són les galetes?",
-			"DESCRIPTION_1": "Les cookies són identificadors alfanumèrics que contenen informació que s'instal·la al dispositiu de l'Usuari i es descarreguen al navegador Web de l'Usuari quan aquest visita i accedeix a una pàgina web. La seva finalitat principal és identificar i reconèixer de manera unívoca el dispositiu de l'Usuari cada cop que accedeix al Lloc Web, a més de millorar la qualitat i oferir un millor ús del Lloc Web.",
-			"DESCRIPTION_2": "Es tracta de petits fitxers de text que queden emmagatzemats al disc dur de l'ordinador i que serveixen per identificar l'Usuari quan es connecta novament al lloc web. El seu objectiu és registrar la visita de l'Usuari i guardar certa informació. ús és comú i freqüent a la web ja que permet a les pàgines funcionar de manera més eficient i aconseguir una major personalització i anàlisi sobre el comportament de l'Usuari."
+			"DESCRIPTION_1": "Les galetes són identificadors alfanumèrics que contenen informació que s'instal·la en el dispositiu de l'Usuari i es descarreguen en el navegador Web de l'Usuari quan aquest visita i accedeix a una pàgina web. La seva finalitat principal és identificar i reconèixer de forma unívoca el dispositiu de l'Usuari cada vegada que accedeix al Lloc Web, a més de millorar la qualitat i oferir un millor ús del Lloc Web.",
+			"DESCRIPTION_2": "Es tracta de petits arxius de text que queden emmagatzemats al disc dur de l'ordinador i que serveixen per identificar a l'Usuari quan es connecta novament al lloc web. El seu objectiu és registrar la visita de l'Usuari i guardar certa informació. El seu ús és comú i freqüent a la web ja que permet a les pàgines funcionar de manera més eficient i aconseguir una major personalització i anàlisi sobre el comportament de l'Usuari."
 		},
 		"TYPES": {
 			"TITLE": "Quins tipus de galetes existeixen?",
 			"DESCRIPTION_1_TITLE": "1.- Segons l'entitat que les gestioni:",
-			"DESCRIPTION_1": "Les cookies pròpies són aquelles que s'instal·len al terminal de l'Usuari des del domini gestionat pel responsable de la Web i les cookies de tercers són aquelles que s'instal·len al terminal de l'Usuari des d'un domini gestionat per tercers que tracten les dades obtingudes a través de les cookies.",
-			"DESCRIPTION_2_TITLE": "2.- Segons el termini de temps que romanguin actives:",
-			"DESCRIPTION_2": "Les galetes de sessió són aquelles que romanen activades i recapten dades mentre l'usuari accedeix a una web i desapareixen en acabar la sessió, i les galetes permanents són aquelles que segueixen actives i de les quals es recull informació durant un període de temps definit pel responsable de la galeta o fins a la desactivació o eliminació per part de l'Usuari.",
-			"DESCRIPTION_3_TITLE": "3.- Cookies tècniques:",
-			"DESCRIPTION_3": "Són aquelles que permeten a l'Usuari navegar a través d'una pàgina web i utilitzar les diferents opcions o serveis que s'ofereixen, com ara controlar el trànsit i la comunicació de dades, identificar la sessió, accedir a parts d'accés restringit, realitzar una sol·licitud d'inscripció, utilitzar elements de seguretat durant la navegació, etc. En ser necessàries per al funcionament del web, aquestes cookies estaran activades i no es podran rebutjar.",
-			"DESCRIPTION_4_TITLE": "4.- Cookies de rendiment o operatives:",
-			"DESCRIPTION_4": "Aquest tipus de Cookie recorda les vostres preferències en la navegació per la Web per la qual cosa no heu de tornar a configurar el servei cada vegada que visiteu la Web. A tall d'exemple, en aquesta tipologia s'inclouen: Configuració de volum de reproductors de vídeo o so. Les velocitats de transmissió de vídeo que siguin compatibles amb el vostre navegador. Aquestes cookies poden desactivar-se per l'Usuari, si bé això pot afectar el bon funcionament dels serveis del Web.",
-			"DESCRIPTION_5_TITLE": "5.- Cookies analítiques o de mesura:",
-			"DESCRIPTION_5": "Són aquelles que permeten fer un seguiment i anàlisi del comportament dels Usuaris de la Web amb la finalitat d'obtenir dades estadístiques i millorar el funcionament de la Web. Cada vegada que un Usuari visita una Web, una eina d'un proveïdor extern genera una galeta analítica a l'ordinador de l'Usuari.",
-			"DESCRIPTION_6_TITLE": "6.- Cookies de publicitat:",
-			"DESCRIPTION_6": "Aquest tipus de galetes permeten obtenir informació sobre la durada o freqüència de visualització de posicions publicitàries, la interacció amb aquestes, o els patrons de navegació i/o comportaments de l'Usuari ja que ajuden a conformar un perfil d'interès publicitari . D'aquesta manera, permeten oferir publicitat afí als interessos de l'Usuari."
+			"DESCRIPTION_1": "Les galetes pròpies són aquelles que s'instal·len al terminal de l'Usuari des del domini gestionat pel responsable de la Web i les galetes de tercers són aquelles que s'instal·len al terminal de l'Usuari des d'un domini gestionat per tercers que tracten les dades obtingudes a través d'aquestes galetes.",
+			"DESCRIPTION_2_TITLE": "2.- Segons el termini de temps que romanen activades:",
+			"DESCRIPTION_2": "Les galetes de sessió són aquelles que romanen activades i recullen dades mentre l'usuari accedeix a una web i desapareixen en acabar la sessió, i les galetes permanents són aquelles que segueixen actives i de les que es recull informació durant un període de temps definit pel responsable de la galeta o fins a la seva desactivació o eliminació per part de l'Usuari.",
+			"DESCRIPTION_3_TITLE": "3.- Galetes tècniques:",
+			"DESCRIPTION_3": "Són aquelles que permeten a l'Usuari navegar a través una pàgina web i utilitzar les diferents opcions o serveis que s'ofereixen, com, controlar el tràfic i la comunicació de dades, identificar la sessió, accedir a parts d'accés restringit, realitzar una sol·licitud d'inscripció, utilitzar elements de seguretat durant la navegació, etc. Al ser necessàries per al funcionament de la web, aquestes galetes estaran activades i no podran rebutjar-se.",
+			"DESCRIPTION_4_TITLE": "4.- Galetes de rendiment o operatives:",
+			"DESCRIPTION_4": "Aquest tipus de Galeta recorda les seves preferències en la navegació per la Web per la qual cosa no ha de tornar a configurar el servei cada vegada que vostè visita la Web. A mode d'exemple, en aquesta tipologia s'inclouen: Ajustaments de volum de reproductors de vídeo o so. Les velocitats de transmissió de vídeo que siguin compatibles amb el seu navegador. Aquestes galetes poden desactivar-se per l'Usuari, si bé això pot afectar el bon funcionament dels serveis de la Web.",
+			"DESCRIPTION_5_TITLE": "5.- Galetes analítiques o de mesura:",
+			"DESCRIPTION_5": "Són aquelles que permeten realitzar un seguiment i anàlisi del comportament dels Usuaris de la Web amb la finalitat d'obtenir dades estadístiques i millorar el funcionament de la Web. Cada vegada que un Usuari visita una Web, una eina d'un proveïdor extern genera una galeta analítica a l'ordinador de l'Usuari.",
+			"DESCRIPTION_6_TITLE": "6.- Galetes de publicitat:",
+			"DESCRIPTION_6": "Aquest tipus de galetes permeten obtenir informació sobre la durada o freqüència de visualització de posicions publicitàries, la interacció amb les mateixes, o els patrons de navegació i/o comportaments de l'Usuari ja que ajuden a conformar un perfil d'interès publicitari. D'aquesta manera, permeten oferir publicitat afí als interessos de l'Usuari."
 		},
 		"BLOCK": {
-			"TITLE": "REBUIXAR, CONFIGURAR, DESHABILITAR O BLOQUEJAR LES COOKIES:",
-			"DESCRIPTION_1": "Bé al banner o al panell de configuració de cookies -sempre actiu i accessible- l'Usuari té la possibilitat d'acceptar o rebutjar les cookies, així com configurar les seves preferències d'aquelles cookies el tractament de les quals requereixi del consentiment de l'Usuari .",
-			"DESCRIPTION_2": "L'Usuari podrà revocar el consentiment inicialment atorgat o modificar-ne les preferències, en qualsevol moment accedint al panell de configuració.",
-			"DESCRIPTION_3": "Així mateix, l'Usuari pot bloquejar i eliminar les cookies instal·lades al vostre equip mitjançant la configuració de les opcions del vostre navegador.",
-			"DESCRIPTION_4": "Es poden configurar els diferents navegadors per avisar l'Usuari de la recepció de cookies i, si es vol, impedir la seva instal·lació a l'equip. Així mateix, l'Usuari pot revisar al vostre navegador quines cookies té instal·lades i quin és el termini de caducitat de les mateixes, podent eliminar-les. Podeu trobar informació sobre com fer-ho, en relació amb els navegadors més comuns, en els enllaços que es relacionen a continuació:",
+			"TITLE": "REBUTJAR, CONFIGURAR, DESHABILITAR O BLOQUEJAR LES GALETES:",
+			"DESCRIPTION_1": "Bé en el banner o en el panell de configuració de galetes -sempre actiu i accessible- l'Usuari té la possibilitat d'acceptar o rebutjar les galetes, així com configurar les seves preferències d'aquelles galetes el tractament dels quals requereixi del consentiment de l'Usuari.",
+			"DESCRIPTION_2": "L'Usuari podrà revocar el consentiment inicialment atorgat o modificar les seves preferències, en qualsevol moment accedint al panell de configuració.",
+			"DESCRIPTION_3": "Així mateix, l'Usuari pot bloquejar i eliminar les galetes instal·lades al seu equip mitjançant la configuració de les opcions del seu navegador.",
+			"DESCRIPTION_4": "Es poden configurar els diferents navegadors per avisar a l'Usuari de la recepció de galetes i, si es desitja, impedir la seva instal·lació a l'equip. Així mateix, l'Usuari pot revisar al seu navegador quines galetes té instal·lades i quin és el termini de caducitat de les mateixes, podent eliminar-les. Pot trobar informació sobre com fer-ho, en relació amb els navegadors més comuns, en els enllaços que es relacionen a continuació:",
 			"DESCRIPTION_5": "Chrome:",
-			"DESCRIPTION_5_URL": "https://support.google.com/chrome/answer/95647?hl=ca",
-			"DESCRIPTION_6": "Per a més informació sobre l'administració de les galetes a Internet Explorer:",
+			"DESCRIPTION_5_URL": "https://support.google.com/chrome/answer/95647?hl=es",
+			"DESCRIPTION_6": "Per a més informació sobre la gestió de les galetes en Internet Explorer:",
 			"DESCRIPTION_6_URL": "http://windows.microsoft.com/es-es/windows-vista/cookies-frequently-asked-questions",
-			"DESCRIPTION_7": "Per a més informació sobre l'administració de les galetes a Mozilla Firefox:",
+			"DESCRIPTION_7": "Per a més informació sobre la gestió de les galetes en Mozilla Firefox:",
 			"DESCRIPTION_7_URL": "https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-sitios-web-rastrear-preferencias",
-			"DESCRIPTION_8": "Per a més informació sobre l'administració de les galetes a Safari:",
+			"DESCRIPTION_8": "Per a més informació sobre la gestió de les galetes en Safari:",
 			"DESCRIPTION_8_URL": "http://www.apple.com/es/privacy/use-of-cookies",
-			"DESCRIPTION_9": "Per a més informació sobre l'administració de les galetes a Opera:",
-			"DESCRIPTION_9_URL": "http://help.opera.com/Windows/11.50/ca-ES/cookies.html",
-			"DESCRIPTION_10": "Si voleu deixar de ser seguit per Google Analytics visiteu:",
+			"DESCRIPTION_9": "Per a més informació sobre la gestió de les galetes en Opera:",
+			"DESCRIPTION_9_URL": "http://help.opera.com/Windows/11.50/es-ES/cookies.html",
+			"DESCRIPTION_10": "Si vols deixar de ser seguit per Google Analytics visita:",
 			"DESCRIPTION_10_URL": "http://tools.google.com/dlpage/gaoptout",
 			"DESCRIPTION_11": "Chrome:"
 		},
 		"MORE_INFO": {
 			"TITLE": "Per saber més sobre les galetes",
-			"DESCRIPTION_1": "Podeu obtenir més informació sobre la publicitat en línia basada en el comportament i la privadesa en línia al següent enllaç:",
-			"DESCRIPTION_1_URL": "http://www.youronlinechoices.com/ca",
+			"DESCRIPTION_1": "Pot obtenir més informació sobre la publicitat online basada en el comportament i la privacitat online en l'enllaç següent:",
+			"DESCRIPTION_1_URL": "http://www.youronlinechoices.com/es",
 			"DESCRIPTION_2": "Protecció de dades de Google Analytics",
 			"DESCRIPTION_2_URL": "http://www.google.com/analytics/learn/privacy.html",
 			"DESCRIPTION_3": "Com utilitza Google Analytics les galetes:",
-			"DESCRIPTION_3_URL": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=ca#analyticsjs"
+			"DESCRIPTION_3_URL": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es#analyticsjs"
 		},
 		"THIRD_PARTY": {
 			"TITLE": "Tercers i Transferències Internacionals",
-			"DESCRIPTION": "Pot obtenir informació sobre el tractament realitzat per tercers i possibles transferències de dades a altres països que realitzin aquests tercers identificats en aquesta política, als enllaços que es faciliten en aquesta política de cookies. Els diferents mecanismes de regularització de les transferències internacionals, en cas que n'hi hagi, seran informats pels esmentats tercers."
+			"DESCRIPTION": "Pot obtenir informació sobre el tractament realitzat per tercers i possibles transferències de dades a altres països que realitzin aquests tercers identificats en aquesta política, en els enllaços que es faciliten en la present política de galetes. Els diferents mecanismes de regularització de les transferències internacionals, en cas d'existir, seran informats per aquests tercers."
 		},
 		"UPDATES": {
-			"TITLE": "Actualitzacions i canvis a la política de cookies",
-			"DESCRIPTION": "FAN CONTENT poden modificar aquesta Política de Cookies en funció d'exigències legislatives, reglamentàries, o amb la finalitat d'adaptar aquesta política a les instruccions dictades per l'Agència Espanyola de Protecció de Dades i pel Comitè Europeu de Protecció de Dades , per això s'aconsella als Usuaris que la visitin periòdicament.",
-			"DATE": "Data de la darrera actualització: 12 del 12 de 2023."
+			"TITLE": "Actualitzacions i canvis en la política de galetes",
+			"DESCRIPTION": "MYSTIC INTERNATIONAL pot modificar aquesta Política de Galetes en funció d'exigències legislatives, reglamentàries, o amb la finalitat d'adaptar aquesta política a les instruccions dictades per l'Agència Espanyola de Protecció de Dades i pel Comitè Europeu de Protecció de Dades, per això s'aconsella als Usuaris que la visitin periòdicament.",
+			"DATE": "Data de l'última actualització: 12 del 12 de 2023."
 		},
 		"SITE_COOKIES": {
-			"TITLE": "Quines cookies utilitza aquest Lloc WEB?",
+			"TITLE": "Quines galetes utilitza aquest Lloc WEB?",
 			"THEAD_NAME": "Nom",
 			"THEAD_CADUCITY": "Caducitat",
 			"THEAD_PROVIDER": "Proveïdor",
 			"THEAD_FINALITY": "Finalitat",
-			"ANALYTICS": [
-				{
+			"ANALYTICS": [{
 					"NAME": "_ga",
 					"EXPIRE": "2 anys",
 					"PROVIDER": {
 						"NAME": "Google",
 						"URL": "https://google.com/"
 					},
-					"OBJECTIVE": "S'utilitza per distingir els usuaris.",
+					"OBJECTIVE": "S'utilitza per distingir als usuaris.",
 					"OBJECTIVE_URL": ""
 				},
 				{
@@ -180,7 +181,7 @@
 						"NAME": "Google",
 						"URL": "https://google.com/"
 					},
-					"OBJECTIVE": "S'utilitza per distingir els usuaris.",
+					"OBJECTIVE": "S'utilitza per distingir als usuaris.",
 					"OBJECTIVE_URL": ""
 				},
 				{
@@ -200,8 +201,8 @@
 						"NAME": "Google",
 						"URL": "https://google.com/"
 					},
-					"OBJECTIVE": "Inclou informació relacionada amb la campanya. Si heu vinculat els vostres comptes de Google Analytics i Google Ads, les etiquetes de conversió al lloc web de Google Ads llegiran aquesta galeta, llevat que la inhabiliteu",
-					"OBJECTIVE_URL": "https://support.google.com/google-ads/answer/7521212?hl=ca"
+					"OBJECTIVE": "Inclou informació relacionada amb la campanya. Si has vinculat els teus comptes de Google Analytics i Google Ads, les etiquetes de conversió en lloc web de Google Ads llegiran aquesta galeta, llevat que la inhabilitis",
+					"OBJECTIVE_URL": "https://support.google.com/google-ads/answer/7521212?hl=es"
 				}
 			]
 		}
@@ -209,84 +210,84 @@
 	"PRIVACY": {
 		"POLICY": {
 			"TITLE": "Política de privacitat",
-			"DESCRIPTION_1": "Ens complau que visiteu la web oficial de PREMIS ESLAND www.premiosesland.com (d'ara endavant, Lloc Web) i agraïm el vostre interès.",
-			"DESCRIPTION_2": "UBIQ S.L.U (d'ara endavant, UBIQ) té el ferm compromís de complir amb la legislació vigent en matèria de protecció de dades personals per garantir la privadesa, el secret i la seguretat de les dades personals dels Usuaris aplicant mesures tècniques i organitzatives apropiades a aquest efecte.",
-			"DESCRIPTION_3": "La present Política de Privadesa té per objecte informar els Usuaris sobre el tractament que UBIQ fa de les dades personals que l'Usuari faciliti en accedir, navegar i utilitzar els serveis que s'ofereixen al Lloc Web, així com de les mesures de seguretat adoptades, de l'exercici dels drets dels Usuaris i de la forma de contacte.",
-			"DESCRIPTION_4": "Les dades personals només seran obtingudes per UBIQ per al seu tractament, quan siguin adequades, pertinents i no excessives en relació amb l'àmbit i les finalitats determinades, explícites i legítimes per a les quals s'hagin obtingut.",
-			"DESCRIPTION_5": "A continuació, compliment amb la normativa vigent en matèria de protecció de dades personals proporcionem als Usuaris la informació següent:"
+			"DESCRIPTION_1": "Ens complau que visites la web oficial de MYSTIC INTERNATIONAL www.mystic-bcn.com (en endavant, Lloc Web) i agraïm el teu interès.",
+			"DESCRIPTION_2": "DANRIBES, S.L. (en endavant, DANRIBES) té el ferm compromís de complir amb la legislació vigent en matèria de protecció de dades personals per garantir la privacitat, el secret i la seguretat de les dades personals dels Usuaris aplicant mesures tècniques i organitzatives apropiades a l'efecte.",
+			"DESCRIPTION_3": "La present Política de Privacitat té per objecte informar als Usuaris sobre el tractament que DANRIBES fa de les dades personals que l'Usuari faciliti en accedir, navegar i utilitzar els serveis que s'ofereixen en el Lloc Web, així com de les mesures de seguretat adoptades, de l'exercici dels drets dels Usuaris i de la forma de contacte.",
+			"DESCRIPTION_4": "Les dades personals només seran obtingudes per DANRIBES per al seu tractament, quan siguin adequades, pertinents i no excessives en relació amb l'àmbit i les finalitats determinades, explícites i legítimes per a les que s'hagin obtingut.",
+			"DESCRIPTION_5": "A continuació, compliment amb la normativa vigent en matèria de protecció de dades personals proporcionem als Usuaris la següent informació:"
 		},
 		"RESPONSIBLE": {
 			"TITLE": "Responsable del tractament",
-			"DESCRIPTION_1": "UBIQ S.L.U (d'ara endavant, UBIQ) societat andorrana amb NRT L-718097-X, amb domicili social al carrer Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany (Andorra), inscrita al Registre de Societats del Govern d'Andorra amb núm. 23023, amb correu electrònic [info@ubiq.ad………….], és la titular de la pàgina web www.premiosesland.com (d'ara endavant, Lloc Web).",
-			"DESCRIPTION_2": "Els Usuaris poden contactar amb el Responsable del Tractament a través de la següent adreça de correu electrònic: info@ubiq.ad"
+			"DESCRIPTION_1": "DANRIBES S.L. (en endavant, DANRIBES) societat espanyola amb CIF B-56943764, amb domicili social al carrer Sindicat, 35, CP 25181 de Soses (Lleida), inscrita en el Registre de Societats amb nº ......., amb correu electrònic [danribes@gmail.com], és la titular de la pàgina Web www.mystic-bcn.com (en endavant, Lloc Web).",
+			"DESCRIPTION_2": "Els Usuaris poden contactar amb el Responsable del Tractament a través de la següent adreça de correu electrònic: danribes@gmail.com"
 		},
 		"DEFINITIONS": {
 			"TITLE": "Definicions",
-			"DESCRIPTION": "A l'efecte de la present Política, els termes següents tindran el significat que s'indica a continuació:",
-			"ITEM_1": "“Dades Personals”: tota informació sobre una persona física identificada o identificable. Es considera persona física identificable tota persona la identitat de la qual es pugui determinar, directament o indirectament, mitjançant un identificador.",
-			"ITEM_2": "“Responsable del Tractament”: Persona física o jurídica, autoritat pública, servei o un altre organisme que, sol o juntament amb altres, determini els fins i mitjans del tractament de dades.",
-			"ITEM_3": "“Encarregat del Tractament”: Persona física o jurídica, autoritat pública, servei o un altre organisme que tracti dades personals per compte del responsable del tractament.",
-			"ITEM_4": "“Interessat-Usuari”: Tota persona física identificada o identificable les dades personals de la qual siguin objecte de tractament.",
-			"ITEM_5": "“Tractament de dades”: Qualsevol operació o conjunt d'operacions realitzades sobre dades personals o conjunts de dades personals, ja sigui per procediments automatitzats o no, com la recollida, registre, organització, estructuració, conservació, adaptació o modificació , extracció, consulta, utilització, comunicació per transmissió, difusió o qualsevol altra forma d'habilitació d'accés, confrontació o interconnexió, limitació, supressió o destrucció."
+			"DESCRIPTION": "Als efectes de la present Política, els següents termes tindran el significat que s'indica a continuació:",
+			"ITEM_1": "“Dades Personals”: tota informació sobre una persona física identificada o identificable. Es considera persona física identificable tota persona la identitat de la qual pugui determinar-se, directa o indirectament, mitjançant un identificador.",
+			"ITEM_2": "“Responsable del Tractament”: Persona física o jurídica, autoritat pública, servei o altre organisme que, sol o juntament amb altres, determini els fins i mitjans del tractament de dades.",
+			"ITEM_3": "“Encarregat del Tractament”: Persona física o jurídica, autoritat pública, servei o altre organisme que tracti dades personals per compte del responsable del tractament.",
+			"ITEM_4": "“Interessat-Usuari”: Tota persona física identificada o identificable els dades personals del qual siguin objecte de tractament.",
+			"ITEM_5": "“Tractament de dades”: Qualsevol operació o conjunt d'operacions realitzades sobre Dades Personals o conjunts de dades personals, ja sigui per procediments automatitzats o no, com la recollida, registre, organització, estructuració, conservació, adaptació o modificació, extracció, consulta, utilització, comunicació per transmissió, difusió o qualsevol altra forma d'habilitació d'accés, coteig o interconnexió, limitació, supressió o destrucció."
 		},
 		"PURPOSE": {
 			"TITLE": "Finalitat del tractament",
-			"DESCRIPTION_1": "Gestionar les sol·licituds d'informació rebudes a través de la funció de “Contacte” de la Web. Gestionar les votacions dels PREMIS ESLAND realitzades pels Usuaris del Lloc Web (identificació, validació i recompte de vots). Fins estadístiques de participació i resultats de les votacions als PREMIS ESLAND -per donar compliment a aquesta finalitat les dades personals seran objecte d'un procés d'anonimització- Per poder participar com a jurat als PREMIS ESLAND, els Usuaris hauran de prémer “Identifica't i Vota” i seran redireccionats a la web de Twitch (www.twitch.tv) on hauran de disposar d'un compte obert en aquesta plataforma de streaming Quan l'Usuari des del seu compte premi “Autoritzar” estarà manifestant que ha llegit i que accepta la Política de Privadesa de www.premiosesland.com A continuació, l'Usuari podrà seleccionar les seves preferències de vot entre les diferents categories definides per Streamers i continguts seguint les indicacions del Lloc Web i una vegada seleccionats els seus vots haurà de prémer “Enviar Els meus Vots” . Les votacions i la identitat de l'Usuari es registraran a la base de dades de UBIQ. La identitat de l'Usuari es registrarà mitjançant un codi hash -algorisme matemàtic- (pseudonimitzat).",
+			"DESCRIPTION_1": "Gestionar les sol·licituds d'informació rebudes a través de la funció de “Contacte” de la Web. Gestionar les votacions de el MYSTIC INTERNATIONAL realitzades pels Usuaris del Lloc Web (identificació, validació i recompte de vots). Fins estadístics de participació i resultats de les votacions en el MYSTIC INTERNATIONAL -per donar compliment a aquesta finalitat les dades personals seran objecte d'un procés d'anonimització-. Per poder participar com a jurat en el MYSTIC INTERNATIONAL, els Usuaris hauran de prémer en “Identifica't i Vota” i seran redirigits a la web de Twitch (www.twitch.tv) en la qual hauran de disposar d'un compte obert en aquesta plataforma de streaming. Quan l'Usuari des del seu compte premi “Autoritzar” estarà manifestant que ha llegit i que accepta la Política de Privacitat de www.premiosesland.com. A continuació, l'Usuari podrà seleccionar les seves preferències de vot entre les diferents categories definides per Streamers i continguts seguint les indicacions del Lloc Web i un cop seleccionats els seus vots haurà de prémer en “Enviar Els Meus Vots”. Les votacions i la identitat de l'Usuari es registraran en la base de dades de DANRIBES. La identitat de l'Usuari es registrarà mitjançant un codi hash -algorisme matemàtic- (pseudonimitzat).",
 			"DESCRIPTION_2": "Twitch Interactive, Inc. propietària de www.twitch.tv actua com a proveïdor dels serveis de validació i verificació de la identitat dels Usuaris que voten per evitar el frau en el procés de votació."
 		},
 		"PERSONAL_DATA": {
 			"TITLE": "Categoria de dades personals",
-			"DESCRIPTION_1": "La categoria de dades que tracta UBIQ al Lloc Web són:",
-			"DESCRIPTION_2": "Correu electrònic en funció de Contacte. Dades identificatives: Identificació de l'Usuari mitjançant un codi hash -algorisme matemàtic-. UBIQ no accedeix a les dades del compte que els Usuaris tenen a www.twitch.tv."
+			"DESCRIPTION_1": "La categoria de dades que tracta DANRIBES en el Lloc Web, són:",
+			"DESCRIPTION_2": "Correu electrònic en funció de Contacte. Dades identificatives: Identificació de l'Usuari mitjançant un codi hash -algorisme matemàtic-. DANRIBES no accedeix a les dades del compte que els Usuaris tenen en www.twitch.tv."
 		},
 		"LEGITIMACY": {
 			"TITLE": "Base de legitimació",
-			"DESCRIPTION_1": "La base de legitimació per gestionar les comunicacions que es rebin a través de la funció “Contacte” és l'interès legítim d'UBIQ.",
-			"DESCRIPTION_2": "La base de legitimació del tractament de les dades personals dels Usuaris que participen als PREMIS ESLAND és el consentiment exprés atorgat en participar com a jurat i l'interès legítim d'UBIQ en la gestió dels esdeveniments que organitzi i en la gestió dels PREMIS ESLAND.",
-			"DESCRIPTION_3": "L'Usuari podrà revocar el consentiment en qualsevol moment. No obstant, el tractament sobre les dades personals realitzat amb anterioritat a la revocació del consentiment serà lícit."
+			"DESCRIPTION_1": "La base de legitimació per gestionar les comunicacions que es rebin a través de la funció “Contacte” és l'interès legítim de DANRIBES.",
+			"DESCRIPTION_2": "La base de legitimació del tractament de les dades personals dels Usuaris que participen en el MYSTIC INTERNATIONAL és el consentiment exprés atorgat en participar com a jurat i l'interès legítim de DANRIBES en la gestió dels esdeveniments que organitzi i en la gestió de el MYSTIC INTERNATIONAL.",
+			"DESCRIPTION_3": "L'Usuari podrà revocar el consentiment en qualsevol moment. No obstant això, el tractament sobre les dades personals realitzat amb anterioritat a la revocació del consentiment serà lícit."
 		},
 		"PRESERVATION": {
 			"TITLE": "Conservació de les dades",
-			"DESCRIPTION_1": "Les dades es conservaran durant el termini estrictament necessari per donar compliment a la finalitat per a la qual van ser recollides. No obstant això, UBIQ podrà conservar les dades per a la posada a disposició de les autoritats competents o per fer front a possibles reclamacions, en aquest cas les dades es conservaran bloquejades fins a la finalització dels terminis de prescripció, moment en què seran eliminats amb les mesures de seguretat adequades.",
-			"DESCRIPTION_2": "Finalitzat el termini de conservació, les dades personals podran ser objecte d'un procés d'anonimització per a fins estadístiques dels PREMIS ESLAND."
+			"DESCRIPTION_1": "Les dades es conservaran durant el termini estrictament necessari per donar compliment a la finalitat per la qual van ser recaptades. No obstant això, DANRIBES podrà conservar les dades per a la seva posada a disposició de les autoritats competents o per fer front a possibles reclamacions, en aquest cas les dades es conservaran bloquejades fins a la finalització dels terminis de prescripció, moment en què seran eliminades amb les mesures de seguretat adequades.",
+			"DESCRIPTION_2": "Finalitzat el termini de conservació, les dades personals podran ser objecte d'un procés d'anonimització per a fins estadístics de el MYSTIC INTERNATIONAL."
 		},
 		"COMMUNICATION": {
 			"TITLE": "Comunicació de dades",
-			"DESCRIPTION_1": "UBIQ no cedirà a tercers les dades facilitades pels Usuaris del Lloc Web, llevat de consentiment previ i exprés d'aquests o sigui necessari per imperatiu legal (Administracions públiques, Forces i Cossos de Seguretat de l'Estat, Ministeri Fiscal, Agència Espanyola de Protecció de Dades, etc).",
-			"DESCRIPTION_2": "UBIQ informa als Usuaris que les dades personals podran comunicar-se a proveïdors d'UBIQ per poder atendre a la gestió dels PREMIS ESLAND, cas en què aquells tindran la condició d'encarregats del tractament seguint les instruccions d'UBIC sobre el tractament de dades personals."
+			"DESCRIPTION_1": "DANRIBES no cedirà a tercers les dades facilitades pels Usuaris del Lloc Web, llevat consentiment previ i exprés d'aquests o sigui necessari per imperatiu legal (Administracions públiques, Forces i Cossos de Seguretat de l'Estat, Ministeri Fiscal, Agència Espanyola de Protecció de Dades, etc).",
+			"DESCRIPTION_2": "DANRIBES informa als Usuaris que les dades personals podran comunicar-se a proveïdors de DANRIBES per poder atendre a la gestió de el MYSTIC INTERNATIONAL, en aquest cas, aquells tindran la condició d'encarregats del tractament seguint les instruccions de DANRIBES sobre el tractament de dades personals."
 		},
 		"USER_RIGHTS": {
 			"TITLE": "Drets dels usuaris",
-			"DESCRIPTION_1": "UBIQ informa als Usuaris que en referència al tractament de les seves dades personals poden exercir els drets següents:",
+			"DESCRIPTION_1": "DANRIBES informa als Usuaris que en referència al tractament de les seves dades personals poden exercir els següents drets:",
 			"ITEM_1": "Dret a revocar el consentiment atorgat en qualsevol moment.",
-			"ITEM_2": "Dret a obtenir informació sobre si UBIQ tracta dades personals de l'usuari.",
-			"ITEM_3": "Dret d'accés, rectificació, portabilitat i supressió de les vostres dades, ia la limitació o oposició al tractament.",
-			"ITEM_4": "Dret a no ser objecte de decisions individuals automatitzades, incloent-hi l'elaboració de perfils.",
-			"ITEM_5": "Dret a presentar una reclamació davant de l'Agència Espanyola de Protecció de Dades (www.aepd.es), quan l'Usuari consideri que UBIQ ha vulnerat els drets en el tractament de dades personals.",
-			"DESCRIPTION_2": "Els Usuaris podran exercir els seus drets en qualsevol moment i de forma gratuïta adreçant-se per escrit a UBIQ S.L.U. per correu postal a l'adreça de carrer Ganduxer, núm. 129, C.P 08022 Barcelona o bé mitjançant correu electrònic a l'adreça [… …info@fan.content.com…….], en tots dos casos caldrà acompanyar còpia del Document Nacional d'Identitat o document equivalent que acrediti la seva identitat."
+			"ITEM_2": "Dret a obtenir informació sobre si DANRIBES tracta dades personals de l'Usuari.",
+			"ITEM_3": "Dret d'accés, rectificació, portabilitat i supressió de les seves dades, i a la limitació o oposició al tractament.",
+			"ITEM_4": "Dret a no ser objecte de decisions individuals automatitzades, inclosa l'elaboració de perfils.",
+			"ITEM_5": "Dret a presentar una reclamació davant l'Agència Espanyola de Protecció de Dades (www.aepd.es), quan l'Usuari consideri que DANRIBES ha vulnerat els seus drets en el tractament de dades personals.",
+			"DESCRIPTION_2": "Els Usuaris podran exercir els seus drets en qualsevol moment i de forma gratuïta dirigint-se per escrit a DANRIBES S.L. per correu postal a l'adreça de carrer Ganduxer, nº 129, C.P 08022 Barcelona o bé mitjançant correu electrònic a l'adreça [……info@fan.content.com…….], en ambdós casos haurà d'acompanyar-se còpia del Document Nacional d'Identitat o document equivalent que acrediti la seva identitat."
 		},
 		"THIRD_PARTY_DOMAIN_LINKS": {
 			"TITLE": "Enllaços de domini de tercers",
-			"DESCRIPTION": "Per poder participar com a jurat els Usuaris seran redireccionats al domini www.twitch.tv titularitat d'un tercer -Twitch Interactive, Inc-. Aquest domini disposa de les seves pròpies Condicions d'Ús, Política de Privadesa i Política de Cookies. Per això, recomanem als Usuaris que les consultin abans de la seva utilització."
+			"DESCRIPTION": "Per poder participar com a jurat els Usuaris seran redirigits al domini www.twitch.tv titularitat d'un tercer -Twitch Interactive, Inc-. Dit domini disposa de les seves pròpies Condicions d'Ús, Política de Privacitat i Política de Galetes. Per això, recomanem als Usuaris que les consultin abans de la seva utilització."
 		},
 		"SOCIALS": {
 			"TITLE": "Xarxes socials",
-			"DESCRIPTION_1": "Aquest Lloc Web pot contenir enllaços que permeten accedir a diferents xarxes socials pertanyents i gestionades per tercers (p.ex. Facebook, Instagram, YouTube). Aquests enllaços al Lloc Web tenen per únic objecte facilitar als Usuaris el accés a xarxes socials per a informals sobre els esdeveniments organitzats per UBIQ.",
-			"DESCRIPTION_2": "L'activació i ús d'aquestes aplicacions pot comportar la identificació i autenticació de l'Usuari (login/contrasenya) a les plataformes corresponents, completament externes al Lloc Web i fora del control d'UBIQ. Aquestes xarxes socials i plataformes disposen de les seves pròpies polítiques de privadesa i del tractament de les cookies. En aquest sentit, tota informació i dades personals que l'usuari proporcioni a aquestes plataformes serà sota la seva pròpia i exclusiva responsabilitat."
+			"DESCRIPTION_1": "Aquest Lloc Web pot contenir enllaços que permetin accedir a diferents xarxes socials pertanyents i gestionades per tercers (p.ex. Facebook, Instagram, YouTube). Aquests enllaços en el Lloc Web tenen per únic objecte facilitar als Usuaris l'accés a xarxes socials per informar-los sobre els esdeveniments organitzats per DANRIBES.",
+			"DESCRIPTION_2": "L'activació i ús d'aquestes aplicacions pot comportar la identificació i autenticació de l'Usuari (login/contrasenya) en les plataformes corresponents, completament externes al Lloc Web i fora del control de DANRIBES. Aquestes xarxes socials i plataformes disposen de les seves pròpies polítiques de privacitat i del tractament de les galetes. En aquest sentit, tota informació i dades personals que l'Usuari proporcioni a aquestes plataformes serà sota la seva pròpia i exclusiva responsabilitat."
 		},
 		"COOKIES": {
-			"TITLE": "Cookies",
-			"DESCRIPTION_1": "Aquest Lloc Web no utilitza cookies per recollir informació dels Usuaris, únicament s'utilitzen cookies pròpies, de sessió, amb finalitat tècnica - aquelles que permeten a l'Usuari la navegació segura a través del Lloc Web i la utilització de les diferents funcions i serveis que s'ofereixen al Lloc Web. Per a una informació més detallada accediu a la Política de Cookies.",
-			"DESCRIPTION_2": "No obstant, aquest Lloc Web pot contenir enllaços a llocs web de tercers amb polítiques de privadesa i de cookies alienes a UBIQ i que l'Usuari podrà decidir si accepta o rebutja quan accedeixi a aquests llocs web."
+			"TITLE": "Galetes",
+			"DESCRIPTION_1": "Aquest Lloc Web no utilitza galetes per recollir informació dels Usuaris, únicament s'utilitzen galetes pròpies, de sessió, amb finalitat tècnica - aquelles que permeten a l'Usuari la navegació segura a través del Lloc Web i la utilització de les diferents funcions i serveis que s'ofereixen en el Lloc Web. Per a una informació més detallada accedeix a la Política de Galetes.",
+			"DESCRIPTION_2": "No obstant això, aquest Lloc Web pot contenir enllaços a llocs web de tercers amb polítiques de privacitat i de galetes alienes a DANRIBES i que l'Usuari podrà decidir si accepta o rebutja quan accedeixi a aquests llocs web."
 		},
 		"INTERNATIONAL_TRANSFERS": {
 			"TITLE": "Transferències internacionals",
-			"DESCRIPTION": "Les dades personals poden allotjar-se en servidors ubicats fora de l'Espai Econòmic Europeu (Estats Units, Japó, Austràlia, Japó), en participar als PREMIS ESLAND consent aquesta transferència de dades i se li informa que en aquestes es garanteix la existència d'una Decisió d'Adequació del Comitè Europeu de Protecció de Dades o bé l'adopció de mesures de garantia complementàries per tal de garantir un nivell d'adequació de protecció alineat amb el Reglament General de Protecció de Dades de la Unió Europea."
+			"DESCRIPTION": "Les dades personals poden allotjar-se en servidors ubicats fora de l'Espai Econòmic Europeu (Estats Units, Japó, Austràlia, Japó), en participar en el MYSTIC INTERNATIONAL consent aquesta transferència de dades i se l'informa que en aquestes es garanteix l'existència d'una Decisió d'Adequació del Comitè Europeu de Protecció de Dades o bé l'adopció de mesures de garantia complementàries a fi de garantir un nivell d'adequació de protecció alineat amb el Reglament General de Protecció de Dades de la Unió Europea."
 		},
 		"MODIFICATIONS": {
-			"TITLE": "Modificacions de la política de privadesa",
-			"DESCRIPTION": "UBIQ es reserva el dret a modificar aquesta Política de privadesa en funció d'exigències legislatives, reglamentàries o amb la finalitat d'adaptar aquesta política a les instruccions dictades per l'Agència Espanyola de Protecció de Dades i/o pel Comitè Europeu de Protecció de Dades, per això s'aconsella als Usuaris que la visitin periòdicament. Quan es produeixin canvis significatius en aquesta Política, aquests es publicaran al Lloc Web.",
-			"LAST_UPDATE": "Data de la darrera actualització: 12 del 12 de 2023."
+			"TITLE": "Modificacions de la política de privacitat",
+			"DESCRIPTION": "DANRIBES es reserva el dret a modificar aquesta Política de privacitat en funció d'exigències legislatives, reglamentàries o amb la finalitat d'adaptar aquesta política a les instruccions dictades per l'Agència Espanyola de Protecció de Dades i/o pel Comitè Europeu de Protecció de Dades, per això s'aconsella als Usuaris que la visitin periòdicament. Quan es produeixin canvis significatius en aquesta Política, aquests es publicaran en el Lloc Web.",
+			"LAST_UPDATE": "Data de l'última actualització: 12 del 12 de 2023."
 		}
 	},
 	"GALLERY": {
@@ -298,96 +299,97 @@
 		"TITLE": "Avís legal",
 		"ACCESS_AND_USE": {
 			"TITLE": "Condicions d'accés i ús",
-			"DESCRIPTION_1": "L'accés, la navegació i la utilització del Lloc web www.premiosesland.com implica l'acceptació expressa i sense reserves de tots els termes de les condicions d'ús incloses en aquest Avís Legal. El seu Compliment és exigible respecte de qualsevol persona que accedeixi, navegui o utilitzi el Lloc web. Si l'Usuari no està d'acord amb la totalitat o part de les condicions d'ús en els termes exposats, us heu d'abstenir d'accedir, navegar o utilitzar el Lloc Web."
+			"DESCRIPTION_1": "L'accés, navegació i utilització del Lloc web www.mystic-bcn.com implica l'acceptació expressa i sense reserves de tots els termes de les condicions d'ús incloses en el present Avís Legal. El seu compliment és exigible respecte de qualsevol persona que accedeixi, navegui o utilitzi el Lloc web. Si l'Usuari no està d'acord amb la totalitat o part de les condicions d'ús en els termes exposats, haurà d'abstenir-se d'accedir, navegar o utilitzar el Lloc Web."
 		},
 		"OWNERSHIP_AND_CONTACT_DATA": {
-			"TITLE": "Titularitat i dades de contacte",
-			"DESCRIPTION_1": "UBIQ S.L.U (d'ara endavant, UBIQ) societat andorrana amb NRT L-718097-X, amb domicili social al carrer Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany (Andorra), inscrita al Registre de Societats del Govern d'Andorra amb núm. 23023, amb correu electrònic [info@ubiq.ad………….], és la titular de la pàgina web www.premiosesland.com (d'ara endavant, Lloc Web). Els Usuaris del Lloc Web podran contactar amb UBIQ mitjançant l´enviament d´un correu electrònic a: info@ubiq.ad"
+			"TITLE": "Propietat i dades de contacte",
+			"DESCRIPTION_1": "DANRIBES, S.L. (d'ara endavant, DANRIBES) societat andorrana amb CIF B-56943764, amb domicili social al carrer Sindicat, 35 CP 25181 de Soses (Lleida), inscrita en el Registre de Societats de Lleida amb núm. ....., amb correu electrònic [danribes@gmail.com], és la titular de la pàgina Web www.mystic-bcn.com (d'ara endavant, Lloc Web). Els Usuaris del Lloc Web podran contactar amb DANRIBES mitjançant l'enviament d'un correu electrònic a: danribes@gmail.com"
 		},
 		"PURPOSE_AND_CONTENT_WEBSITE": {
 			"TITLE": "Objecte i contingut del lloc web",
-			"DESCRIPTION_1": "Aquest Lloc Web té per objecte informar els Usuaris dels esdeveniments que organitzi UBIQ en relació amb les activitats de Streamers i oferir la possibilitat de participar en aquests esdeveniments com a jurat dels Premis Esland i seleccionar i emetre el seu vot a favor dels seus Streamers i continguts preferits. L'accés a la informació del Lloc Web no implica ni constitueix cap relació contractual entre l'Usuari i UBIQ.",
-			"DESCRIPTION_2": "UBIQ empra tots els esforços per assegurar que tota la informació disponible al Lloc Web sigui completa i estigui actualitzada, revisant periòdicament el contingut del Lloc Web. Això no obstant, l'Usuari reconeix i accepta que tota la informació disponible al Lloc Web s'ofereix únicament a efectes merament informatius i que UBIQ no garanteix la precisió, idoneïtat i integritat de la informació continguda al Lloc Web. És responsabilitat exclusiva de l'Usuari l'ús que faci de la informació continguda al Lloc Web."
+			"DESCRIPTION_1": "Aquest Lloc Web té com a objecte informar els Usuaris dels esdeveniments que organitzi DANRIBES en relació amb les activitats de Streamers i oferir la possibilitat de participar en aquests esdeveniments com a jurat de MYSTIC INTERNATIONAL i seleccionar i emetre el seu vot a favor dels seus Streamers i continguts favorits. L'accés a la informació del Lloc Web no implica ni constitueix relació contractual alguna entre l'Usuari i DANRIBES.",
+			"DESCRIPTION_2": "DANRIBES empra tots els esforços per assegurar que tota la informació disponible al Lloc Web sigui completa i estigui actualitzada, revisant periòdicament el contingut del Lloc Web. No obstant això, l'Usuari reconeix i accepta que tota la informació disponible al Lloc Web s'ofereix únicament a efectes merament informatius i que DANRIBES no garanteix la precisió, idoneïtat i integritat de la informació continguda al Lloc Web. És responsabilitat exclusiva de l'Usuari l'ús que faci de la informació continguda al Lloc Web."
 		},
 		"TERMS_OF_USE": {
 			"TITLE": "Condicions d'ús",
-			"DESCRIPTION_1": "Aquestes condicions generals d'ús regulen l'accés i la navegació al Lloc Web, l'accés i l'ús del qual té caràcter lliure i gratuït, i no és necessari el registre previ dels Usuaris. No obstant això, en el cas que els Usuaris vulguin participar de forma activa als PREMIS ESLAND com a jurat i així seleccionar i votar els seus Streamers i continguts favorits, hauran de disposar d'un compte obert a la plataforma de streaming www.twitch.tv i en el procés de votació s'informarà els usuaris dels passos a seguir per emetre els seus vots a les diferents categories designades.",
-			"DESCRIPTION_2": "L'accés, ús o navegació al Lloc Web atribueix la condició d'Usuari i implica el coneixement, l'acceptació i el sotmetiment a les advertències legals ia les condicions d'ús incloses en aquest Avís Legal a la versió publicada en el moment en què el Usuari accedeix al Lloc Web. L'Usuari accepta que l'ús del Lloc Web té lloc sota la seva única i exclusiva responsabilitat. Es recomana a l'Usuari llegir aquest Avís Legal cada vegada que s'accedeixi a la Web.",
-			"DESCRIPTION_3": "UBIQ es reserva, sense necessitat de previ avís i en qualsevol moment, el dret a interrompre, suspendre temporalment, desactivar i/a cancel·lar l'accés al Lloc Web oa qualsevol dels elements que s'hi integren."
+			"DESCRIPTION_1": "Aquestes condicions generals d'ús regulen l'accés i navegació al Lloc Web, el qual té caràcter lliure i gratuït, no sent necessari el registre previ dels Usuaris. No obstant això, en el cas que els Usuaris desitgin participar de forma activa a MYSTIC INTERNATIONAL com a jurat i així seleccionar i votar els seus Streamers i continguts favorits, hauran de disposar d'un compte obert a la plataforma de streaming www.twitch.tv i en el procés de votació s'informarà els Usuaris dels passos a seguir per emetre els seus vots a les diferents categories designades.",
+			"DESCRIPTION_2": "L'accés, ús o navegació al Lloc Web atribueix la condició d'Usuari i implica el coneixement, l'acceptació i la sotmetiment a les advertències legals i a les condicions d'ús incloses en el present Avís Legal en la versió publicada en el moment en què l'Usuari accedeixi al Lloc Web. L'Usuari accepta que l'ús del Lloc Web té lloc sota la seva única i exclusiva responsabilitat. S'aconsella a l'Usuari llegir el present Avís Legal en cada ocasió en què s'accedeixi al Lloc Web.",
+			"DESCRIPTION_3": "DANRIBES es reserva, sense necessitat de prèvia advertència i en qualsevol moment, el dret a interrompre, suspendre temporalment, desactivar i/o cancel·lar l'accés al Lloc Web o a qualsevol dels elements que s'integren en el mateix."
 		},
+
 		"USE_OF_WEBSITE_AND_RESPONSIBILITY": {
 			"TITLE": "ÚS DEL LLOC WEB I RESPONSABILITAT",
-			"DESCRIPTION_1": "L'Usuari és responsable de l'ús que realitzi del Lloc Web i del contingut i ho fa sota el seu propi risc. En accedir-hi accepta i es compromet a utilitzar el Lloc Web, els seus continguts i serveis de conformitat amb la Llei, aquest Avís Legal, els bons costums i l'ordre públic, i hauran de respondre davant UBIQ o tercers per qualsevol dany que pugui produir-se per incompliment daquestes obligacions.",
-			"DESCRIPTION_2": "No destruir, alterar, inutilitzar o fer malbé les dades o programes informàtics o documents electrònics del Lloc Web.",
-			"DESCRIPTION_3": "No obstaculitzar l'accés d'altres usuaris al lloc web.",
-			"DESCRIPTION_4": "No introduir virus o qualsevol altre dispositiu que causi o pugui causar una alteració als sistemes de UBIQ.",
-			"DESCRIPTION_5": "No copiar el software.",
-			"DESCRIPTION_6": "No distribuir, compartir, subllicenciar, prestar, arrendar o posar el web a disposició de tercers.",
-			"DESCRIPTION_7": "No sotmetre a enginyeria inversa, descompilar o desmuntar el Programari del Lloc Web o intentar obtenir el codi font.",
-			"DESCRIPTION_8": "No emmagatzemar, introduir o difondre en o des del Lloc Web informació o material difamatori, injuriós, obscè, amenaçador, xenòfog o que inciti a la violència, discriminació per raó de raça, sexe, ideologia, religió, atempte contra la moral, l'ordre públic, els drets fonamentals, les llibertats públiques, l'honor, la intimitat o la imatge de tercers, i en general que infringeixi la normativa vigent.",
-			"DESCRIPTION_9": "L'Usuari és l'únic i exclusiu responsable de l'accés al Lloc Web i de l'ús que faci de la informació i les dades contingudes.",
-			"DESCRIPTION_10": "UBIQ no respondrà de cap conseqüència, dany o perjudici derivats de l'accés o ús del Lloc Web i del contingut per part dels Usuaris. UBIQ, com a titular del Lloc Web, queda exonerat de qualsevol responsabilitat que es pugui derivar de les accions de l'Usuari. De manera que l'Usuari és l'únic responsable davant de qualsevol reclamació iniciada per terceres persones contra UBIQ per l'accés o ús que l'Usuari faci del Lloc Web."
+			"DESCRIPTION_1": "L'Usuari és responsable de l'ús que faci del Lloc Web i del seu contingut i ho fa sota el seu propi risc. En accedir-hi, accepta i es compromet a utilitzar el Lloc Web, els seus continguts i serveis de conformitat amb la Llei, el present Avís Legal, les bones costums i l'ordre públic, i haurà de respondre davant de DANRIBES o tercers per qualsevol dany que pugui produir-se per l'incompliment d'aquestes obligacions.",
+			"DESCRIPTION_2": "No destruir, alterar, inutilitzar o danyar les dades o programes informàtics o documents electrònics del Lloc Web.",
+			"DESCRIPTION_3": "No obstaculitzar l'accés d'altres Usuaris al Lloc Web.",
+			"DESCRIPTION_4": "No introduir virus o qualsevol altre dispositiu que causi o pugui causar una alteració en els sistemes de DANRIBES.",
+			"DESCRIPTION_5": "No copiar el Programari.",
+			"DESCRIPTION_6": "No distribuir, compartir, sublicenciar, llogar o posar el Lloc Web a disposició de tercers.",
+			"DESCRIPTION_7": "No sotmetre a enginyeria inversa, descompilar o desmuntar el Programari del Lloc Web o tractar d'obtenir el seu codi font.",
+			"DESCRIPTION_8": "No emmagatzemar, introduir o difondre en o des del Lloc Web informació o material difamatori, injurios, obscè, amenaçador, xenòfob o que inciti a la violència, discriminació per raó de raça, sexe, ideologia, religió, atempti contra la moral, l'ordre públic, els drets fonamentals, les llibertats públiques, l'honor, la intimitat o la imatge de tercers, i en general que infringeixi la normativa vigent.",
+			"DESCRIPTION_9": "L'Usuari és l'únic i exclusiu responsable de l'accés al Lloc Web i de l'ús que faci de la informació i dades contingudes.",
+			"DESCRIPTION_10": "DANRIBES no respondrà de cap conseqüència, dany o perjudici derivats de l'accés o ús del Lloc Web i del seu contingut per part dels Usuaris. DANRIBES, com a titular del Lloc Web, queda exonerat de qualsevol responsabilitat que pogués derivar de les accions de l'Usuari. De manera que l'Usuari és l'únic responsable davant de qualsevol reclamació iniciada per tercers contra DANRIBES per l'accés o ús que l'Usuari faci del Lloc Web."
 		},
 		"DISCLAIMER_OF_LIABILITY": {
-			"TITLE": "EXEMCIÓ DE RESPONSABILITAT",
-			"DESCRIPTION_1": "UBIQ realitza els màxims esforços perquè l'ús del Lloc Web es faci en les millors condicions i per facilitar una informació actualitzada, no obstant això, UBIQ no garanteix l'absència d'errors o omissions en el contingut del Lloc Web, ni garanteix que l'accés al Lloc Web sigui ininterromput, estant facultat per suspendre temporalment i sense previ avís l'accessibilitat al Lloc Web.",
+			"TITLE": "EXONERACIÓ DE RESPONSABILITAT",
+			"DESCRIPTION_1": "DANRIBES realitza els màxims esforços perquè l'ús del Lloc Web es faci en les millors condicions i per facilitar una informació actualitzada, no obstant això, DANRIBES no garanteix l'existència d'errors o omissions en el contingut del Lloc Web, ni garanteix que l'accés al Lloc Web sigui ininterromput, estant facultat per suspendre temporalment i sense previ avís l'accessibilitat al Lloc Web.",
 			"DESCRIPTION_2": "·Qualsevol fallada o interrupció de la comunicació, la manca de disponibilitat, actualitat, manteniment i efectiu funcionament del Lloc Web i/o dels seus serveis o continguts.",
-			"DESCRIPTION_3": "·L'incompliment de les expectatives dels Usuaris en relació amb el Lloc Web o en el servidor que el subministra.",
+			"DESCRIPTION_3": "·L'incompliment de les expectatives dels Usuaris en relació amb el Lloc Web o en el servidor que ho subministra.",
 			"DESCRIPTION_4": "·La invulnerabilitat del Lloc Web i/o la invulnerabilitat de les mesures de seguretat que s'adoptin en el mateix.",
-			"DESCRIPTION_5": "·Els continguts, serveis, errors o omissions que pogués tenir el contingut del Lloc Web o dels enllaços que puguin estar habilitats.",
-			"DESCRIPTION_6": "·L'existència de virus o programes lesius en els continguts que puguin produir alteracions en el sistema informàtic, en els documents electrònics o en els fitxers emmagatzemats dels Usuaris.",
+			"DESCRIPTION_5": "·Els continguts, serveis, errors o omissions que pogués tenir el contingut del Lloc Web o dels enllaços o enllaços que puguin estar habilitats.",
+			"DESCRIPTION_6": "·L'existència de virus o programes perjudicials en els continguts que puguin produir alteracions en el sistema informàtic, en els documents electrònics o en els fitxers emmagatzemats dels Usuaris.",
 			"DESCRIPTION_7": "·Avaries telefòniques o de xarxes motivades per causes alienes al titular del Lloc Web.",
-			"DESCRIPTION_8": "·Retards o bloquejos en el funcionament operatiu del sistema causat per deficiències o sobrecàrrega a les línies telefòniques o a Internet.",
-			"DESCRIPTION_9": "·Les intromissions il·legítimes fora de control del titular del Lloc Web, com els accessos no autoritzats, les còpies, l'alteració o la supressió d'informació i dades realitzades per tercers en el Lloc Web.",
-			"DESCRIPTION_10": "UBIQ empra tots els recursos tècnics necessaris per reduir aquest tipus de riscos. No obstant això, s'informa a l'Usuari que aquests riscos existeixen i que UBIQ no es responsabilitza dels danys que poguessin ocasionar."
+			"DESCRIPTION_8": "·Retards o blocs en el funcionament operatiu del sistema causat per deficiències o sobrecàrrega en les línies telefòniques o a Internet.",
+			"DESCRIPTION_9": "·Les intromissions il·legítimes fora del control del titular del Lloc Web, com els accessos no autoritzats, les còpies, l'alteració o la supressió d'informació i dades realitzades per tercers en el Lloc Web.",
+			"DESCRIPTION_10": "DANRIBES empra tots els recursos tècnics necessaris per reduir aquest tipus de riscos. No obstant això, s'informa a l'Usuari que aquests riscos existeixen i que DANRIBES no es responsabilitza dels danys que puguin ocasionar."
 		},
 		"INTELLECTUAL_AND_INDUSTRIAL_PROPERTY": {
 			"TITLE": "PROPIETAT INTEL·LECTUAL I INDUSTRIAL",
 			"DESCRIPTION_1": "El contingut del Lloc Web es regeix per les lleis espanyoles i està protegit per la legislació nacional i internacional sobre Propietat Intel·lectual i Industrial.",
-			"DESCRIPTION_2": "Els Drets de Propietat Intel·lectual i Industrial sobre tota la informació continguda en aquest Lloc Web, entre d'altres, marques, noms comercials, disseny gràfic, dibuixos, logotips, imatges, índexs, textos, àudios, vídeos, programari, disseny i signes identificatius, així com els seus codis font, estructura de navegació, bases de dades, i tots els elements en ells continguts, estan protegits per drets d'autor i drets de propietat intel·lectual i industrial d'UBIQ o de tercers.",
-			"DESCRIPTION_3": "En cap cas l'accés i ús al Lloc Web per part dels Usuaris, es podrà considerar com una concessió de llicència d'ús o dret a cap actiu d'UBIQ o dels seus autors legítims, pel que no implicarà una cessió, ni transmissió, ni cap tipus de renúncia de drets de Propietat Intel·lectual o Industrial.",
-			"DESCRIPTION_4": "A menys que UBIQ o els tercers titulars dels drets ho autoritzin expressament, queda prohibida tota reproducció, còpia, conversió, distribució, modificació, supressió o transformació, publicació, comercialització, utilització de tècniques d'enginyeria inversa o qualsevol altre mitjà per obtenir el codi font i qualsevol altra activitat que es pugui realitzar amb les dades i la informació continguda en el Lloc Web, així com amb el seu disseny i la selecció i model de presentació. L'Usuari utilitza la informació a la qual pugui accedir mitjançant l'ús del Lloc Web, exclusivament per a fins personals i en cap cas per a fins comercials o empresarials.",
-			"DESCRIPTION_5": "La utilització no autoritzada de la informació continguda en el Lloc Web, la seva modificació o supressió de dades, així com la lesió dels Drets de Propietat Intel·lectual o Industrial d'UBIQ o de tercers, donarà lloc a les responsabilitats legalment establertes, reservant-se UBIQ la possibilitat d'exercir les accions judicials que procedeixin en dret contra els Usuaris que violin o infringeixin els drets de propietat intel·lectual o industrial."
+			"DESCRIPTION_2": "Els Drets de Propietat Intel·lectual i Industrial sobre tota la informació continguda en aquest Lloc Web, entre altres, marques, noms comercials, disseny gràfic, dibuixos, logotips, imatges, índexs, textos, àudios, vídeos, programari, disseny i signes identificatius, així com els seus codis font, estructura de navegació, bases de dades i tots els elements en ells continguts, estan protegits per drets d'autor i drets de propietat intel·lectual i industrial de DANRIBES o de tercers.",
+			"DESCRIPTION_3": "En cap cas l'accés i ús al Lloc Web per part dels Usuaris es podrà considerar com una concessió de llicència d'ús o dret a cap actiu de DANRIBES o dels seus autors legítims, pel que no implicarà una cessió, ni transmissió, ni cap tipus de renúncia de drets de Propietat Intel·lectual o Industrial.",
+			"DESCRIPTION_4": "A menys que DANRIBES o els tercers titulars dels drets ho autoritzin expressament, queda prohibida tota reproducció, còpia, conversió, distribució, modificació, supressió o transformació, publicació, comercialització, ús de tècniques d'enginyeria inversa o qualsevol altre mitjà per obtenir el codi font i qualsevol altra activitat que es pugui realitzar amb les dades i la informació continguda al Lloc Web, així com amb el seu disseny i la selecció i model de presentació. L'Usuari empra la informació a la qual pugui accedir mitjançant l'ús del Lloc Web, exclusivament per a fins personals i en cap cas per a fins comercials o empresarials.",
+			"DESCRIPTION_5": "La utilització no autoritzada de la informació continguda al Lloc Web, la seva modificació o supressió de dades, així com la lesió dels Drets de Propietat Intel·lectual o Industrial de DANRIBES o de tercers, donarà lloc a les responsabilitats legalment establertes, reservant-se DANRIBES la possibilitat d'exercir les accions judicials que procedeixin en dret contra els Usuaris que violin o infringeixin els drets de propietat intel·lectual o industrial."
 		},
 		"THIRD_PARTY_LINKS": {
-			"TITLE": "ENLLAÇOS DE TERCERS",
-			"DESCRIPTION_1": "Aquest Lloc Web pot contenir enllaços a altres Llocs Web gestionats per tercers titulars daquells. Així, per poder participar com a jurat els Usuaris seran redireccionats al domini www.twitch.tv titularitat d'un tercer -Twitch Interactive, Inc-. Aquest domini disposa de les vostres pròpies Condicions d'Ús, Política de Privadesa i Política de Cookies. Per això, recomanem als Usuaris la lectura prèvia al registre i obertura d'un compte en aquest domini.",
-			"DESCRIPTION_2": "UBIQ es reserva el dret de retirar de manera unilateral i en qualsevol moment els enllaços que apareguin al present Lloc Web."
+			"TITLE": "ENLLAÇOS DE TERCS",
+			"DESCRIPTION_1": "Aquest Lloc Web pot contenir enllaços a altres Llocs Web gestionats per tercers titulars d'aquests. Així, per poder participar com a jurat els Usuaris seran redirigits al domini www.twitch.tv titularitat d'un tercer -Twitch Interactive, Inc-. Aquest domini disposa de les seves pròpies Condicions d'Ús, Política de Privacitat i Política de Cookies. Per això, recomanem als Usuaris la seva lectura prèvia al registre i obertura d'un compte en aquest domini.",
+			"DESCRIPTION_2": "DANRIBES es reserva el dret de retirar de manera unilateral i en qualsevol moment els enllaços que apareguin en aquest Lloc Web."
 		},
 		"SOCIAL_NETWORKS": {
-			"TITLE": "REDES SOCIALES",
-			"DESCRIPTION_1": "Este Sitio Web puede contener enlaces que permiten a los Usuarios acceder a diferentes redes sociales pertenecientes y/o gestionadas por terceros (p.ej, Facebook, Instagram, YouTube). Estos enlaces en el Sitio Web tienen por único objeto facilitar a los Usuarios el acceso a redes sociales para informales sobre eventos organizados por UBIQ.",
-			"DESCRIPTION_2": "La activación y uso de estas aplicaciones puede conllevar la identificación y autenticación del Usuario (login/contraseña) en las plataformas correspondientes, completamente externas al Sitio Web y fuera del control de UBIQ. Al acceder a dichas redes externas, el Usuario ingresa en un entorno no controlado por UBIQ, de manera que ésta no asumirá ninguna responsabilidad sobre la configuración de seguridad de dichos entornos. Dichas redes sociales y plataformas disponen de sus propias políticas de privacidad y del tratamiento de las cookies. En este sentido, toda información y datos personales que el Usuario proporcione a estas plataformas será bajo su propia y exclusiva responsabilidad."
+			"TITLE": "XARXES SOCIALS",
+			"DESCRIPTION_1": "Aquest Lloc Web pot contenir enllaços que permeten als Usuaris accedir a diferents xarxes socials pertanyents i/o gestionades per tercers (p.ej, Facebook, Instagram, YouTube). Aquests enllaços al Lloc Web tenen com a únic objecte facilitar als Usuaris l'accés a xarxes socials per informar-los sobre esdeveniments organitzats per DANRIBES.",
+			"DESCRIPTION_2": "L'activació i ús d'aquestes aplicacions pot implicar la identificació i autenticació de l'Usuari (login/contrasenya) a les plataformes corresponents, completament externes al Lloc Web i fora del control de DANRIBES. En accedir a aquestes xarxes externes, l'Usuari ingressa en un entorn no controlat per DANRIBES, de manera que aquesta no assumirà cap responsabilitat sobre la configuració de seguretat d'aquests entorns. Aquestes xarxes socials i plataformes disposen de les seves pròpies polítiques de privacitat i del tractament de les cookies. En aquest sentit, tota informació i dades personals que l'Usuari proporcioni a aquestes plataformes serà sota la seva pròpia i exclusiva responsabilitat."
 		},
 		"DATA_PROTECTION": {
-			"TITLE": "PROTECCIÓN DE DATOS PERSONALES",
-			"DESCRIPTION_1": "UBIQ, como titular del Sitio Web, informa a los Usuarios que es el responsable de los tratamientos que se realicen de los datos personales solicitados y facilitados durante la utilización del Sitio Web.",
-			"DESCRIPTION_2": "De conformidad con lo establecido en la legislación aplicable en materia de protección de datos, UBIQ respeta la privacidad de los Usuarios y el secreto y seguridad de los datos personales, adoptando para ello las medidas técnicas y organizativas necesarias para evitar la pérdida, mal uso, alteración, acceso no autorizado y robo de los datos personales facilitados, habida cuenta el estado de la tecnología, la naturaleza de los datos y los riesgos a los que están expuestos.",
-			"DESCRIPTION_3": "Los datos personales de los Usuarios del Sitio Web, solo se obtendrán para ser tratados cuando sean adecuados, pertinentes y no excesivos en relación con el ámbito y las finalidades determinadas, explícitas, consentidas y/o legítimas para las que se hayan recabado. Cuando se recaben datos personales a través del Sitio Web, se informará previamente al Usuario de forma clara e inequívoca.",
-			"DESCRIPTION_4": "El Usuario deberá visitar la Política de Privacidad de UBIQ, en este mismo Sitio Web, donde encontrará información detallada respecto la protección de datos de carácter personal."
+			"TITLE": "PROTECCIÓ DE DADES PERSONALS",
+			"DESCRIPTION_1": "DANRIBES, com a titular del Lloc Web, informa als Usuaris que és el responsable dels tractaments que es realitzin de les dades personals sol·licitades i facilitades durant l'ús del Lloc Web.",
+			"DESCRIPTION_2": "De conformitat amb el que estableix la legislació aplicable en matèria de protecció de dades, DANRIBES respecta la privacitat dels Usuaris i el secret i seguretat de les dades personals, adoptant per això les mesures tècniques i organitzatives necessàries per evitar la pèrdua, mal ús, alteració, accés no autoritzat i robatori de les dades personals facilitades, tenint en compte l'estat de la tecnologia, la naturalesa de les dades i els riscos als quals estan exposades.",
+			"DESCRIPTION_3": "Les dades personals dels Usuaris del Lloc Web, només s'obtindran per ser tractades quan siguin adequades, pertinents i no excessives en relació amb l'àmbit i les finalitats determinades, explícites, consentides i/o legítimes per a les quals s'hagin recabat. Quan es recabin dades personals a través del Lloc Web, es informarà prèviament a l'Usuari de forma clara i inequívoca.",
+			"DESCRIPTION_4": "L'Usuari haurà de visitar la Política de Privacitat de DANRIBES, en aquest mateix Lloc Web, on trobarà informació detallada respecte la protecció de dades de caràcter personal."
 		},
 		"SITE_UPDATE": {
-			"TITLE": "ACTUALIZACIÓN DEL SITIO WEB",
-			"DESCRIPTION_1": "Para mejorar el servicio en beneficio de los Usuarios, UBIQ S.L.U se reserva el derecho a actualizar, modificar o eliminar sin previo aviso, la presentación y configuración del Sitio Web, los contenidos e información contenidos en él, así como modificar las Condiciones de Uso que entrarán en vigor desde el momento de su publicación en el Sitio Web siendo aplicables desde esa fecha."
+			"TITLE": "ACTUALITZACIÓ DEL LLOC WEB",
+			"DESCRIPTION_1": "Per millorar el servei en benefici dels Usuaris, DANRIBES S.L.U es reserva el dret a actualitzar, modificar o eliminar sense previ avís, la presentació i configuració del Lloc Web, els continguts i informació continguts en ell, així com modificar les Condicions d'Ús que entraran en vigor des del moment de la seva publicació al Lloc Web sent aplicables des d'aquesta data."
 		},
 		"WEB_INTEROPERABILITY_AND_FUNCTIONALITY": {
-			"TITLE": "INTEROPERATIVIDAD Y FUNCIONALIDAD DEL SITIO WEB",
-			"DESCRIPTION_1": "El Sitio Web se ejecuta en las plataformas Safari, Firefox, Internet Explorer y Chrome actualizadas en 2019. Está especialmente optimizada para Chrome."
+			"TITLE": "INTEROPERABILITAT I FUNCIONALITAT DEL LLOC WEB",
+			"DESCRIPTION_1": "El Lloc Web s'executa en les plataformes Safari, Firefox, Internet Explorer i Chrome actualitzades el 2019. Està especialment optimitzada per a Chrome."
 		},
 		"INTEGRITY": {
-			"TITLE": "INTEGRIDAD",
-			"DESCRIPTION_1": "Si alguna de las condiciones de uso del presente Aviso Legal fuera anulado o se considerase no válida, el resto de condiciones no se verán afectadas continuando con plena vigencia y validez."
+			"TITLE": "INTEGRITAT",
+			"DESCRIPTION_1": "Si alguna de les condicions d'ús del present Avís Legal fos anul·lada o es considerés no vàlida, la resta de condicions no es veuran afectades i continuaran amb plena vigència i validesa."
 		},
 		"APPLICABLE_LEGISLATION_AND_JURISDICTION": {
-			"TITLE": "LEGISLACIÓN APLICABLE Y JURISDICCIÓN",
-			"DESCRIPTION_1": "Toda cuestión o controversia que pudiera surgir en referencia a la aplicación del presente Aviso Legal entre el Usuario y UBIQ se rige por la normativa española vigente aplicable en la materia. Y siempre que la normativa vigente al efecto prevea la posibilidad para las partes de someterse a un fuero determinado, el Usuario renuncia de forma expresa al fuero que pudiera corresponderle y se somete para la resolución de la controversia a los Juzgados y Tribunales de Barcelona."
+			"TITLE": "LEGIISLACIÓ APLICABLE I JURISDICCIÓ",
+			"DESCRIPTION_1": "Qualsevol qüestió o controvèrsia que pogués sorgir en referència a l'aplicació del present Avís Legal entre l'Usuari i DANRIBES es regeix per la normativa espanyola vigent aplicable en la matèria. I sempre que la normativa vigent al efecte prevegi la possibilitat per a les parts de sotmetre's a un for determinat, l'Usuari renuncia de forma expressa al for que pogués correspondre-li i es sotmet per a la resolució de la controvèrsia als Jutjats i Tribunals de Barcelona."
 		},
 		"MODIFICATIONS": {
-			"LAST_UPDATE": "Fecha de la última actualización: 12 del 12 de 2023."
+			"LAST_UPDATE": "Data de la darrera actualització: 12 del 12 de 2023."
 		}
 	},
 	"ERROR_404": {
-		"TITLE": "Pàgina no trobadaa",
+		"TITLE": "Pàgina no trobada",
 		"BACK_HOMEPAGE_BTN": "Tornar a la pàgina d'inici"
 	}
 }
