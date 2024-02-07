@@ -37,10 +37,10 @@
 <div align="center">
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/esland-web)
-![GitHub issues](https://img.shields.io/github/issues/midudev/esland-web)
-![GitHub forks](https://img.shields.io/github/forks/midudev/esland-web)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/esland-web)
+![GitHub stars](https://img.shields.io/github/stars/dannyribes/mystic-bcn)
+![GitHub issues](https://img.shields.io/github/issues/dannyribes/mystic-bcn)
+![GitHub forks](https://img.shields.io/github/forks/dannyribes/mystic-bcn)
+![GitHub PRs](https://img.shields.io/github/issues-pr/dannyribes/mystic-bcn)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 
 </div>
@@ -58,7 +58,7 @@
 
 ## 🚀 Getting Started
 
-1. [Fork](https://github.com/midudev/esland-web/fork) or clone this repository.
+1. [Fork](https://github.com/dannyribes/mystic-bcn/fork) or clone this repository.
 
 ```bash
 git clone git@github.com:dannyribes/mystic-bcn.git
