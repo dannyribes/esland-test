@@ -112,5 +112,3 @@ pnpm dev
 ## 🔑 License
 
 [MIT](#) - Created by [**Youtube MonicaFreixes TV**](https://www.youtube.com/channel/UC5-PWGW2OmEvd9OEbgnt1JA).
-
-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
