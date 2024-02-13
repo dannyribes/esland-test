@@ -1,5 +1,5 @@
 ---
-const { link, title, image, download } = Astro.props
+const { link, title, image, download } = Astro.props;
 ---
 
 <article class="flex flex-col justify-center items-center">
@@ -10,7 +10,7 @@ const { link, title, image, download } = Astro.props
   >
     <img
       src={image}
-      class="aspect-video rounded-lg w-full h-auto transition group-hover:scale-105"
+      class="aspect-video rounded-lg w-full h-auto object-contain transition group-hover:scale-105"
       loading="lazy"
     />
     <img
